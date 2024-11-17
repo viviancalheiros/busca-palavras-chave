@@ -355,6 +355,34 @@ Uma Proposta de um Modelo de Decisão com Foco na Imersão para Serious Games Ba
 https://sol.sbc.org.br/index.php/sbie_estendido/article/view/12754
 Um Modelo de Recomendação de Objetos Aprendizagem Baseado em Valores Culturais dos Estudantes
 https://sol.sbc.org.br/index.php/sbie_estendido/article/view/12755
+Block Interchange and Reversal Distance on Unbalanced Genomes
+https://sol.sbc.org.br/index.php/bsb/article/view/26059
+circTIS: A Weighted Degree String Kernel with Support Vector Machine Tool for Translation Initiation Sites Prediction in circRNA
+https://sol.sbc.org.br/index.php/bsb/article/view/26060
+Evaluating the Molecular—Electronic Structure and the Antiviral Effect of Functionalized Heparin on Graphene Oxide Through Ab Initio Computer Simulations and Molecular Docking
+https://sol.sbc.org.br/index.php/bsb/article/view/26061
+Make No Mistake! Why Do Tools Make Incorrect Long Non-coding RNA Classification?
+https://sol.sbc.org.br/index.php/bsb/article/view/26062
+Spectrum-Based Statistical Methods for Directed Graphs with Applications in Biological Data
+https://sol.sbc.org.br/index.php/bsb/article/view/26063
+Feature Selection Investigation in Machine Learning Docking Scoring Functions
+https://sol.sbc.org.br/index.php/bsb/article/view/26064
+Using Natural Language Processing for Context Identification in COVID-19 Literature
+https://sol.sbc.org.br/index.php/bsb/article/view/26065
+A Framework for Inference and Selection of Cell Signaling Pathway Dynamic Models
+https://sol.sbc.org.br/index.php/bsb/article/view/26066
+Intentional Semantics for Molecular Biology
+https://sol.sbc.org.br/index.php/bsb/article/view/26067
+Peptide-Protein Interface Classification Using Convolutional Neural Networks
+https://sol.sbc.org.br/index.php/bsb/article/view/26069
+A Power Law Semantic Similarity from Gene Ontology
+https://sol.sbc.org.br/index.php/bsb/article/view/26070
+Gene Networks Inference by Reinforcement Learning
+https://sol.sbc.org.br/index.php/bsb/article/view/26071
+Exploring Identifiability in Hybrid Models of Cell Signaling Pathways
+https://sol.sbc.org.br/index.php/bsb/article/view/26072
+transcAnalysis: A Snakemake Pipeline for Differential Expression and Post-transcriptional Modification Analysis
+https://sol.sbc.org.br/index.php/bsb/article/view/26068
 TVTAT - A Real Time Camera Imaging Testing Tool for Smart TVs: Preliminary Results
 https://sol.sbc.org.br/index.php/sast/article/view/30210
 Exploring Tools for Flaky Test Detection, Correction, and Mitigation: A Systematic Mapping Study
