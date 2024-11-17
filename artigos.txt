@@ -1,0 +1,551 @@
+Embracing Data Irregularities in Multivariate Time Series with Recurrent and Graph Neural Networks
+https://sol.sbc.org.br/index.php/bracis/article/view/28345
+Regulation and Ethics of Facial Recognition Systems: An Analysis of Cases in the
+Court of Appeal in the State of São Paulo
+https://sol.sbc.org.br/index.php/bracis/article/view/28346
+A Combinatorial Optimization Model and Polynomial Time Heuristic for a Problem of Finding Specific Structural Patterns in Networks
+https://sol.sbc.org.br/index.php/bracis/article/view/28347
+Efficient Density-Based Models for Multiple Machine Learning Solutions over Large Datasets
+https://sol.sbc.org.br/index.php/bracis/article/view/28348
+Exploring Text Decoding Methods for Portuguese Legal Text Generation
+https://sol.sbc.org.br/index.php/bracis/article/view/28349
+Community Detection for Multi-label Classification
+https://sol.sbc.org.br/index.php/bracis/article/view/28350
+A Monte Carlo Algorithm for Time-Constrained General Game Playing
+https://sol.sbc.org.br/index.php/bracis/article/view/28351
+α-MCMP: Trade-Offs Between Probability and Cost in SSPs with the MCMP Criterion
+https://sol.sbc.org.br/index.php/bracis/article/view/28352
+Specifying Preferences over Policies Using Branching Time Temporal Logic
+https://sol.sbc.org.br/index.php/bracis/article/view/28353
+Logic-Based Explanations for Linear Support Vector Classifiers with Reject Option
+https://sol.sbc.org.br/index.php/bracis/article/view/28354
+The Multi-attribute Fairer Cover Problem
+https://sol.sbc.org.br/index.php/bracis/article/view/28355
+A Custom Bio-Inspired Algorithm for the Molecular Distance Geometry Problem
+https://sol.sbc.org.br/index.php/bracis/article/view/28356
+Allocating Dynamic and Finite Resources to a Set of Known Tasks
+https://sol.sbc.org.br/index.php/bracis/article/view/28357
+A Multi-algorithm Approach to the Optimization of Thermal Power Plants Operation
+https://sol.sbc.org.br/index.php/bracis/article/view/28358
+An Incremental MaxSAT-Based Model to Learn Interpretable and Balanced Classification Rules
+https://sol.sbc.org.br/index.php/bracis/article/view/28359
+d-CC Integrals: Generalizing CC-Integrals by Restricted Dissimilarity Functions with Applications to Fuzzy-Rule Based Systems
+https://sol.sbc.org.br/index.php/bracis/article/view/28360
+FeatGeNN: Improving Model Performance for Tabular Data with Correlation-Based Feature Extraction
+https://sol.sbc.org.br/index.php/bracis/article/view/28361
+Hierarchical Time-Aware Approach for Video Summarization
+https://sol.sbc.org.br/index.php/bracis/article/view/28362
+Analyzing College Student Dropout Risk Prediction in Real Data Using Walk-Forward Validation
+https://sol.sbc.org.br/index.php/bracis/article/view/28363
+The Artificial Intelligence as a Technological Resource in the Application of Tasks for the Development of Joint Attention in Children with Autism
+https://sol.sbc.org.br/index.php/bracis/article/view/28364
+Machine Teaching: An Explainable Machine Learning Model for Individualized Education
+https://sol.sbc.org.br/index.php/bracis/article/view/28365
+BLUEX: A Benchmark Based on Brazilian Leading Universities Entrance eXams
+https://sol.sbc.org.br/index.php/bracis/article/view/28366
+Towards Generating P-Contrastive Explanations for Goal Selection in Extended-BDI Agents
+https://sol.sbc.org.br/index.php/bracis/article/view/28367
+Applying Theory of Mind to Multi-agent Systems: A Systematic Review
+https://sol.sbc.org.br/index.php/bracis/article/view/28368
+A Spin-off Version of Jason for IoT and Embedded Multi-Agent Systems
+https://sol.sbc.org.br/index.php/bracis/article/view/28369
+Hybrid Multilevel Explanation: A New Approach for Explaining Regression Models
+Explainability of COVID-19 Classification Models Using Dimensionality Reduction of SHAP Values
+https://sol.sbc.org.br/index.php/bracis/article/view/28371
+An Explainable Model to Support the Decision About the Therapy Protocol for AML
+https://sol.sbc.org.br/index.php/bracis/article/view/28372
+Bayes and Laplace Versus the World: A New Label Attack Approach in Federated Environments Based on Bayesian Neural Networks
+https://sol.sbc.org.br/index.php/bracis/article/view/28373
+MAT-Tree: A Tree-Based Method for Multiple Aspect Trajectory Clustering
+https://sol.sbc.org.br/index.php/bracis/article/view/28374
+Transformer Model for Fault Detection from Brazilian Pre-salt Seismic Data
+https://sol.sbc.org.br/index.php/bracis/article/view/28375
+Evaluating Recent Legal Rhetorical Role Labeling Approaches Supported by Transformer Encoders
+https://sol.sbc.org.br/index.php/bracis/article/view/28376
+Dog Face Recognition Using Vision Transformer
+https://sol.sbc.org.br/index.php/bracis/article/view/28377
+Convolutional Neural Networks for the Molecular Detection of COVID-19
+https://sol.sbc.org.br/index.php/bracis/article/view/28378
+Hierarchical Graph Convolutional Networks for Image Classification
+https://sol.sbc.org.br/index.php/bracis/article/view/28379
+Interpreting Convolutional Neural Networks for Brain Tumor Classification: An Explainable Artificial Intelligence Approach
+https://sol.sbc.org.br/index.php/bracis/article/view/28380
+Enhancing Stock Market Predictions Through the Integration of Convolutional and Recursive LSTM Blocks: A Cross-market Analysis
+https://sol.sbc.org.br/index.php/bracis/article/view/28381
+Ensemble Architectures and Efficient Fusion Techniques for Convolutional Neural Networks: An Analysis on Resource Optimization Strategies
+https://sol.sbc.org.br/index.php/bracis/article/view/28382
+Dog Face Recognition Using Deep Features Embeddings
+https://sol.sbc.org.br/index.php/bracis/article/view/28383
+Clinical Oncology Textual Notes Analysis Using Machine Learning and Deep Learning
+https://sol.sbc.org.br/index.php/bracis/article/view/28384
+EfficientDeepLab for Automated Trachea Segmentation on Medical Images
+https://sol.sbc.org.br/index.php/bracis/article/view/28385
+Multi-label Classification of Pathologies in Chest Radiograph Images Using DenseNet
+https://sol.sbc.org.br/index.php/bracis/article/view/28386
+Does Pre-training on Brain-Related Tasks Results in Better Deep-Learning-Based Brain Age Biomarkers?
+https://sol.sbc.org.br/index.php/bracis/article/view/28387
+Applying Reinforcement Learning for Multiple Functions in Swarm Intelligence
+https://sol.sbc.org.br/index.php/bracis/article/view/28388
+Deep Reinforcement Learning for Voltage Control in Power Systems
+https://sol.sbc.org.br/index.php/bracis/article/view/28389
+Performance Analysis of Generative Adversarial Networks and Diffusion Models for Face Aging
+https://sol.sbc.org.br/index.php/bracis/article/view/28390
+Occluded Face In-painting Using Generative Adversarial Networks—A Review
+https://sol.sbc.org.br/index.php/bracis/article/view/28391
+Classification of Facial Images to Assist in the Diagnosis of Autism Spectrum Disorder: A Study on the Effect of Face Detection and Landmark Identification Algorithms
+https://sol.sbc.org.br/index.php/bracis/article/view/28392
+Constructive Machine Learning and Hierarchical Multi-label Classification for Molecules Design
+https://sol.sbc.org.br/index.php/bracis/article/view/28393
+AutoMMLC: An Automated and Multi-objective Method for Multi-label Classification
+https://sol.sbc.org.br/index.php/bracis/article/view/28394
+Merging Traditional Feature Extraction and Deep Learning for Enhanced Hop Variety Classification: A Comparative Study Using the UFOP-HVD Dataset
+https://sol.sbc.org.br/index.php/bracis/article/view/28395
+Feature Selection and Hyperparameter Fine-Tuning in Artificial Neural Networks for Wood Quality Classification
+https://sol.sbc.org.br/index.php/bracis/article/view/28396
+A Feature-Based Out-of-Distribution Detection Approach in Skin Lesion Classification
+https://sol.sbc.org.br/index.php/bracis/article/view/28397
+A Framework for Characterizing What Makes an Instance Hard to Classify
+https://sol.sbc.org.br/index.php/bracis/article/view/28398
+Physicochemical Properties for Promoter Classification
+https://sol.sbc.org.br/index.php/bracis/article/view/28399
+Critical Analysis of AI Indicators in Terms of Weighting and Aggregation Approaches
+https://sol.sbc.org.br/index.php/bracis/article/view/28400
+Estimating Code Running Time Complexity with Machine Learning
+https://sol.sbc.org.br/index.php/bracis/article/view/28401
+The Effect of Statistical Hypothesis Testing on Machine Learning Model Selection
+https://sol.sbc.org.br/index.php/bracis/article/view/28402
+Multiobjective Evolutionary Algorithms Applied to the Optimization of Expanded Genetic Codes
+https://sol.sbc.org.br/index.php/bracis/article/view/28403
+Genetic Algorithms with Optimality Cuts to the Max-Cut Problem
+https://sol.sbc.org.br/index.php/bracis/article/view/28404
+Assessment of Robust Multi-objective Evolutionary Algorithms on Robust and Noisy Environments
+https://sol.sbc.org.br/index.php/bracis/article/view/28405
+Binary Flying Squirrel Optimizer for Feature Selection
+https://sol.sbc.org.br/index.php/bracis/article/view/28406
+Fitness Landscape Analysis of TPOT Using Local Optima Network
+https://sol.sbc.org.br/index.php/bracis/article/view/28407
+Optimization Strategies for BERT-Based Named Entity Recognition
+https://sol.sbc.org.br/index.php/bracis/article/view/28408
+FlexCon-CE: A Semi-supervised Method with an Ensemble-Based Adaptive Confidence
+https://sol.sbc.org.br/index.php/bracis/article/view/28409
+Single Image Super-Resolution Based on Capsule Neural Networks
+https://sol.sbc.org.br/index.php/bracis/article/view/28410
+Development of a Deep Learning Model for the Classification of Mosquito Larvae Images
+https://sol.sbc.org.br/index.php/bracis/article/view/28411
+A Simple and Low-Cost Method for Leaf Surface Dimension Estimation Based on Digital Images
+https://sol.sbc.org.br/index.php/bracis/article/view/28412
+Crop Row Line Detection with Auxiliary Segmentation Task
+https://sol.sbc.org.br/index.php/bracis/article/view/28413
+Multiple Object Tracking in Native Bee Hives: A Case Study with Jataí in the Field
+https://sol.sbc.org.br/index.php/bracis/article/view/28414
+An Open Source Eye Gaze Tracker System to Perform Remote User Testing Evaluations
+https://sol.sbc.org.br/index.php/bracis/article/view/28415
+Who Killed the Winograd Schema Challenge?
+https://sol.sbc.org.br/index.php/bracis/article/view/28416
+Sabiá: Portuguese Large Language Models
+https://sol.sbc.org.br/index.php/bracis/article/view/28417
+Disambiguation of Universal Dependencies Part-of-Speech Tags of Closed Class Words in Portuguese
+https://sol.sbc.org.br/index.php/bracis/article/view/28418
+Bete: A Brazilian Portuguese Dataset for Named Entity Recognition and Relation Extraction in the Diabetes Healthcare Domain
+https://sol.sbc.org.br/index.php/bracis/article/view/28419
+LegalBert-pt: A Pretrained Language Model for the Brazilian Portuguese Legal Domain
+https://sol.sbc.org.br/index.php/bracis/article/view/28420
+A Framework for Controversial Political Topics Identification Using Twitter Data
+https://sol.sbc.org.br/index.php/bracis/article/view/28421
+Leveraging Sign Language Processing with Formal SignWriting and Deep Learning Architectures
+https://sol.sbc.org.br/index.php/bracis/article/view/28422
+A Clustering Validation Index Based on Semantic Description
+https://sol.sbc.org.br/index.php/bracis/article/view/28423
+Detecting Multiple Epidemic Sources in Network Epidemics Using Graph Neural Networks
+https://sol.sbc.org.br/index.php/bracis/article/view/28424
+Prediction of Cancer-Related miRNA Targets Using an Integrative Heterogeneous Graph Neural Network-Based Method
+https://sol.sbc.org.br/index.php/bracis/article/view/28425
+Time Series Forecasting of COVID-19 Cases in Brazil with GNN and Mobility Networks
+https://sol.sbc.org.br/index.php/bracis/article/view/28426
+Federated Learning and Mel-Spectrograms for Physical Violence Detection in Audio
+https://sol.sbc.org.br/index.php/bracis/article/view/28427
+Police Report Similarity Search: A Case Study
+https://sol.sbc.org.br/index.php/bracis/article/view/28428
+Evaluating Contextualized Embeddings for Topic Modeling in Public Bidding Domain
+https://sol.sbc.org.br/index.php/bracis/article/view/28429
+A Tool for Measuring Energy Consumption in Data Stream Mining
+https://sol.sbc.org.br/index.php/bracis/article/view/28430
+Improved Fuzzy Decision System for Energy Bill Reduction in the Context of the Brazilian White Tariff Scenario
+https://sol.sbc.org.br/index.php/bracis/article/view/28431
+Exploring Artificial Intelligence Methods for the Automatic Measurement of a New Biomarker Aiming at Glaucoma Diagnosis
+https://sol.sbc.org.br/index.php/bracis/article/view/28432
+Investigation of Deep Active Self-learning Algorithms Applied to Named Entity Recognition
+https://sol.sbc.org.br/index.php/bracis/article/view/28433
+A Conversational Agent to Support Hospital Bed Allocation
+https://sol.sbc.org.br/index.php/bracis/article/view/19019
+A Protocol for Argumentation-Based Persuasive Negotiation Dialogues
+https://sol.sbc.org.br/index.php/bracis/article/view/19020
+Gradient Estimation in Model-Based Reinforcement Learning: A Study on Linear Quadratic Environments
+https://sol.sbc.org.br/index.php/bracis/article/view/19021
+Intelligent Agents for Observation and Containment of Malicious Targets Organizations
+https://sol.sbc.org.br/index.php/bracis/article/view/19022
+MAS4GC: Multi-agent System for Glycemic Control of Intensive Care Unit Patients
+https://sol.sbc.org.br/index.php/bracis/article/view/19023
+On the Impact of MDP Design for Reinforcement Learning Agents in Resource Management
+https://sol.sbc.org.br/index.php/bracis/article/view/19024
+Slot Sharing Mechanism in Multi-domain Dialogue Systems
+https://sol.sbc.org.br/index.php/bracis/article/view/19025
+A Graph-Based Crossover and Soft-Repair Operators for the Steiner Tree Problem
+https://sol.sbc.org.br/index.php/bracis/article/view/19026
+A Modified NSGA-DO for Solving Multiobjective Optimization Problems
+https://sol.sbc.org.br/index.php/bracis/article/view/19027
+An Enhanced TSP-Based Approach for Active Debris Removal Mission Planning
+https://sol.sbc.org.br/index.php/bracis/article/view/19028
+Dynamic Learning in Hyper-Heuristics to Solve Flowshop Problems
+Hyper-Heuristic Based NSGA-III for the Many-Objective Quadratic Assignment Problem
+https://sol.sbc.org.br/index.php/bracis/article/view/19029
+I2DE: Improved Interval Differential Evolution for Numerical Constrained Global Optimization
+https://sol.sbc.org.br/index.php/bracis/article/view/19031
+Improving a Genetic Clustering Approach with a CVI-Based Objective Function
+https://sol.sbc.org.br/index.php/bracis/article/view/19032
+Improving Particle Swarm Optimization with Self-adaptive Parameters, Rotational Invariance, and Diversity Control
+https://sol.sbc.org.br/index.php/bracis/article/view/19033
+Improving Rule Based and Equivalent Decision Simplifications for Bloat Control in Genetic Programming Using a Dynamic Operator
+https://sol.sbc.org.br/index.php/bracis/article/view/19034
+Lackadaisical Quantum Walk in the Hypercube to Search for Multiple Marked Vertices
+https://sol.sbc.org.br/index.php/bracis/article/view/19035
+On the Analysis of CGP Mutation Operators When Inferring Gene Regulatory Networks Using ScRNA-Seq Time Series Data
+https://sol.sbc.org.br/index.php/bracis/article/view/19036
+Online Selection of Heuristic Operators with Deep Q-Network: A Study on the HyFlex Framework
+https://sol.sbc.org.br/index.php/bracis/article/view/19037
+A Systematic Approach to Define Semantics for Prioritised Logic Programs
+https://sol.sbc.org.br/index.php/bracis/article/view/19038
+Active Learning and Case-Based Reasoning for the Deceptive Play in the Card Game of Truco
+https://sol.sbc.org.br/index.php/bracis/article/view/19039
+ASPIC? and the Postulates of Non-interference and Crash-Resistance
+https://sol.sbc.org.br/index.php/bracis/article/view/19040
+On the Refinement of Compensation-Based Semantics for Weighted Argumentation Frameworks
+https://sol.sbc.org.br/index.php/bracis/article/view/19041
+Ontology Based Classification of Electronic Health Records to Support Value-Based Health Care
+https://sol.sbc.org.br/index.php/bracis/article/view/19042
+A Co-occurrence Based Approach for Mining Overlapped Co-clusters in Binary Data
+https://sol.sbc.org.br/index.php/bracis/article/view/19043
+A Comparative Study on Concept Drift Detectors for Regression
+https://sol.sbc.org.br/index.php/bracis/article/view/19044
+A Kullback-Leibler Divergence-Based Locally Linear Embedding Method: A Novel Parametric Approach for Cluster Analysis
+https://sol.sbc.org.br/index.php/bracis/article/view/19045
+Classifying Potentially Unbounded Hierarchical Data Streams with Incremental Gaussian Naive Bayes
+https://sol.sbc.org.br/index.php/bracis/article/view/19046
+Coarsening Algorithm via Semi-synchronous Label Propagation for Bipartite Networks
+https://sol.sbc.org.br/index.php/bracis/article/view/19047
+Evaluating Clustering Meta-features for Classifier Recommendation
+https://sol.sbc.org.br/index.php/bracis/article/view/19048
+Fast Movelet Extraction and Dimensionality Reduction for Robust Multiple Aspect Trajectory Classification
+https://sol.sbc.org.br/index.php/bracis/article/view/19049
+Interpreting Classification Models Using Feature Importance Based on Marginal Local Effects
+https://sol.sbc.org.br/index.php/bracis/article/view/19050
+On the Generalizations of the Choquet Integral for Application in FRBCs
+https://sol.sbc.org.br/index.php/bracis/article/view/19051
+Optimizing Diffusion Rate and Label Reliability in a Graph-Based Semi-supervised Classifier
+https://sol.sbc.org.br/index.php/bracis/article/view/19052
+Tactical Asset Allocation Through Random Walk on Stock Network
+https://sol.sbc.org.br/index.php/bracis/article/view/19053
+A Heterogeneous Network-Based Positive and Unlabeled Learning Approach to Detect Fake News
+https://sol.sbc.org.br/index.php/bracis/article/view/19054
+Anomaly Detection in Brazilian Federal Government Purchase Cards Through Unsupervised Learning Techniques
+https://sol.sbc.org.br/index.php/bracis/article/view/19055
+De-Identification of Clinical Notes Using Contextualized Language Models and a Token Classifier
+https://sol.sbc.org.br/index.php/bracis/article/view/19056
+Detecting Early Signs of Insufficiency in COVID-19 Patients from CBC Tests Through a Supervised Learning Approach
+https://sol.sbc.org.br/index.php/bracis/article/view/19057
+Encoding Physical Conditioning from Inertial Sensors for Multi-step Heart Rate Estimation
+https://sol.sbc.org.br/index.php/bracis/article/view/19058
+Ensemble of Protein Stability upon Point Mutation Predictors
+https://sol.sbc.org.br/index.php/bracis/article/view/19059
+Ethics of AI: Do the Face Detection Models Act with Prejudice?
+https://sol.sbc.org.br/index.php/bracis/article/view/19060
+Evaluating Topic Models in Portuguese Political Comments About Bills from Brazil’s Chamber of Deputies
+https://sol.sbc.org.br/index.php/bracis/article/view/19061
+Evaluation of Convolutional Neural Networks for COVID-19 Classification on Chest X-Rays
+https://sol.sbc.org.br/index.php/bracis/article/view/19062
+Experiments on Portuguese Clinical Question Answering
+https://sol.sbc.org.br/index.php/bracis/article/view/19063
+Long-Term Map Maintenance in Complex Environments
+https://sol.sbc.org.br/index.php/bracis/article/view/19064
+Supervised Training of a Simple Digital Assistant for a Free Crop Clinic
+https://sol.sbc.org.br/index.php/bracis/article/view/19065
+The Future of AI: Neat or Scruffy?
+https://sol.sbc.org.br/index.php/bracis/article/view/19066
+Weapon Engagement Zone Maximum Launch Range Estimation Using a Deep Neural Network
+https://sol.sbc.org.br/index.php/bracis/article/view/19067
+Code Autocomplete Using Transformers
+https://sol.sbc.org.br/index.php/bracis/article/view/19068
+Deep Convolutional Features for Fingerprint Indexing
+https://sol.sbc.org.br/index.php/bracis/article/view/19069
+How to Generate Synthetic Paintings to Improve Art Style Classification
+https://sol.sbc.org.br/index.php/bracis/article/view/19070
+Iris-CV: Classifying Iris Flowers Is Not as Easy as You Thought
+https://sol.sbc.org.br/index.php/bracis/article/view/19071
+Performance Analysis of YOLOv3 for Real-Time Detection of Pests in Soybeans
+https://sol.sbc.org.br/index.php/bracis/article/view/19072
+Quaternion-Valued Convolutional Neural Network Applied for Acute Lymphoblastic Leukemia Diagnosis
+https://sol.sbc.org.br/index.php/bracis/article/view/19073
+Sea State Estimation with Neural Networks Based on the Motion of a Moored FPSO Subjected to Campos Basin Metocean Conditions
+https://sol.sbc.org.br/index.php/bracis/article/view/19074
+Time-Dependent Item Embeddings for Collaborative Filtering
+https://sol.sbc.org.br/index.php/bracis/article/view/19075
+Transfer Learning of Shapelets for Time Series Classification Using Convolutional Neural Network
+https://sol.sbc.org.br/index.php/bracis/article/view/19076
+A Deep Learning Approach for Aspect Sentiment Triplet Extraction in Portuguese
+https://sol.sbc.org.br/index.php/bracis/article/view/19077
+Aggressive Language Detection Using VGCN-BERT for Spanish Texts
+https://sol.sbc.org.br/index.php/bracis/article/view/19078
+An Empirical Study of Text Features for Identifying Subjective Sentences in Portuguese
+https://sol.sbc.org.br/index.php/bracis/article/view/19079
+Comparing Contextual Embeddings for Semantic Textual Similarity in Portuguese
+https://sol.sbc.org.br/index.php/bracis/article/view/19080
+Deep Active-Self Learning Applied to Named Entity Recognition
+https://sol.sbc.org.br/index.php/bracis/article/view/19081
+DEEPAGÉ: Answering Questions in Portuguese About the Brazilian Environment
+https://sol.sbc.org.br/index.php/bracis/article/view/19082
+Enriching Portuguese Word Embeddings with Visual Information
+https://sol.sbc.org.br/index.php/bracis/article/view/19083
+Entity Relation Extraction from News Articles in Portuguese for Competitive Intelligence Based on BERT
+https://sol.sbc.org.br/index.php/bracis/article/view/19084
+Experiments on Kaldi-Based Forced Phonetic Alignment for Brazilian Portuguese
+https://sol.sbc.org.br/index.php/bracis/article/view/19085
+Incorporating Text Specificity into a Convolutional Neural Network for the Classification of Review Perceived Helpfulness
+https://sol.sbc.org.br/index.php/bracis/article/view/19086
+Joint Event Extraction with Contextualized Word Embeddings for the Portuguese Language
+https://sol.sbc.org.br/index.php/bracis/article/view/19087
+mRAT-SQL+GAP: A Portuguese Text-to-SQL Transformer
+https://sol.sbc.org.br/index.php/bracis/article/view/19087
+Named Entity Recognition for Brazilian Portuguese Product Titles
+https://sol.sbc.org.br/index.php/bracis/article/view/19089
+Portuguese Neural Text Simplification Using Machine Translation
+https://sol.sbc.org.br/index.php/bracis/article/view/19090
+Rhetorical Role Identification for Portuguese Legal Documents
+https://sol.sbc.org.br/index.php/bracis/article/view/19091
+Speech2Phone: A Novel and Efficient Method for Training Speaker Recognition Models
+https://sol.sbc.org.br/index.php/bracis/article/view/19092
+Text Classification in Legal Documents Extracted from Lawsuits in Brazilian Courts
+https://sol.sbc.org.br/index.php/bracis/article/view/19093
+Universal Dependencies-Based PoS Tagging Refinement Through Linguistic Resources
+https://sol.sbc.org.br/index.php/bracis/article/view/19094
+When External Knowledge Does Not Aggregate in Named Entity Recognition
+https://sol.sbc.org.br/index.php/bracis/article/view/19095
+Perfil diagnóstico do nível cibercultural de estudantes de graduação para aplicação da metodologia Sala de Aula Invertida
+https://sol.sbc.org.br/index.php/sbie_estendido/article/view/26138
+Cidades Inteligentes: Entendendo um semáforo inteligente com simulações usando robótica educacional
+https://sol.sbc.org.br/index.php/sbie_estendido/article/view/26139
+Tutor Inteligente em Jogo Educacional Digital para Capacitação na Identificação de Fake News em Português: Experimentos Preliminares
+https://sol.sbc.org.br/index.php/sbie_estendido/article/view/26140
+Proposta de Jogo Serio para o Ensino de Uroginecologia
+https://sol.sbc.org.br/index.php/sbie_estendido/article/view/26141
+Desenvolvimento de um website educacional acessível com o Wordpress: um estudo de caso
+https://sol.sbc.org.br/index.php/sbie_estendido/article/view/26142
+Avaliação de jogo educacional para pessoas com deficiência intelectual: um estudo de caso com o PegAgente
+https://sol.sbc.org.br/index.php/sbie_estendido/article/view/22389
+Processo Participativo de Engenharia de Requisitos para Construção de Tecnologias Educacionais: Versão Preliminar
+https://sol.sbc.org.br/index.php/sbie_estendido/article/view/17916
+Uma Proposta para Uso de Computação Desplugada no Ensino Híbrido
+https://sol.sbc.org.br/index.php/sbie_estendido/article/view/17917
+Correlação entre habilidade de resolução de problemas e desempenho em disciplina introdutória de programação
+https://sol.sbc.org.br/index.php/sbie_estendido/article/view/17918
+Abordagem didática para a popularização da Internet das Coisas na Educação Básica
+https://sol.sbc.org.br/index.php/sbie_estendido/article/view/12752
+Simulação de Ações de Coordenação de Curso Superior: Uma proposta de ferramenta
+https://sol.sbc.org.br/index.php/sbie_estendido/article/view/12753
+Uma Proposta de um Modelo de Decisão com Foco na Imersão para Serious Games Baseados em Vídeos 360º
+https://sol.sbc.org.br/index.php/sbie_estendido/article/view/12754
+Um Modelo de Recomendação de Objetos Aprendizagem Baseado em Valores Culturais dos Estudantes
+https://sol.sbc.org.br/index.php/sbie_estendido/article/view/12755
+TVTAT - A Real Time Camera Imaging Testing Tool for Smart TVs: Preliminary Results
+https://sol.sbc.org.br/index.php/sast/article/view/30210
+Exploring Tools for Flaky Test Detection, Correction, and Mitigation: A Systematic Mapping Study
+https://sol.sbc.org.br/index.php/sast/article/view/30211
+TSS Tool: Automation Tool Applied in the True Single SKU Setup Environment Preparation for Multiple Devices in Parallel
+https://sol.sbc.org.br/index.php/sast/article/view/30212
+Mutation Testing to Support the Security Testing of Android Applications
+https://sol.sbc.org.br/index.php/sast/article/view/30213
+Property-based Testing for Machine Learning Models
+https://sol.sbc.org.br/index.php/sast/article/view/30214
+Benchmark review and case study of stress test for a gaming computer applied in CPU
+https://sol.sbc.org.br/index.php/sast/article/view/30215
+A Rapid Review on Advanced Software-in-the-Loop Methods for Automotive Software Verification
+https://sol.sbc.org.br/index.php/sast/article/view/30216
+TString: a tool to locate the target string’s screen based on automatic exploration
+https://sol.sbc.org.br/index.php/sast/article/view/30217
+Reports on using an ABB robot in Android mobile testing automation
+https://sol.sbc.org.br/index.php/sast/article/view/30218
+Reducing the Allocation of Software Testing Demand: A Study on the Pros and Cons using STELA Tool
+https://sol.sbc.org.br/index.php/sast/article/view/30219
+Enhancing Automated Tools: Reporting Bugs with Bug Builder
+https://sol.sbc.org.br/index.php/sast/article/view/30220
+Experiences with Google Approval Process: an automated approach to enhancing efficiency in Android releases
+https://sol.sbc.org.br/index.php/sast/article/view/30221
+Smart Test Execution of Android Compatibility Tests
+https://sol.sbc.org.br/index.php/sast/article/view/30222
+Benefits and Challenges of a Physical Device Farm for Automated Software Testing: A Case Study of the STELA Tool Implementation
+https://sol.sbc.org.br/index.php/sast/article/view/30223
+Reducing Rework in Automotive Software through Simulation-Guided Verification
+https://sol.sbc.org.br/index.php/sast/article/view/30224
+ADPS: Providing asynchronous PubSub communication in an adaptive and scalable way in Edge-Fog-Cloud architectures for healthcare data traffic
+https://sol.sbc.org.br/index.php/sbcars/article/view/30227
+Evaluating the performance of NSGA-II and NSGA-III on Product Line Architecture Design
+https://sol.sbc.org.br/index.php/sbcars/article/view/30228
+Large Language Model-based suggestion of objective functions for search-based Product Line Architecture design
+https://sol.sbc.org.br/index.php/sbcars/article/view/30229
+Guidelines for Data Engineering Documentation in a DevDocOps Approach
+https://sol.sbc.org.br/index.php/sbcars/article/view/30230
+Unleashing the Future of Smart Homes: A Revelation of Cutting-Edge Distributed Architecture
+https://sol.sbc.org.br/index.php/sbcars/article/view/30231
+Issue Labeling Dynamics in Open-Source Projects: A Comprehensive Analysis
+https://sol.sbc.org.br/index.php/sbcars/article/view/30232
+A Catalog of Interoperability Solutions for Ambient Assisted Living
+https://sol.sbc.org.br/index.php/sbcars/article/view/30233
+Investigating Developer Experience in Software Reuse
+https://sol.sbc.org.br/index.php/sbcars/article/view/30234
+TriCache: Providing three-tier caching for time series data in serverless healthcare services
+https://sol.sbc.org.br/index.php/sbcars/article/view/30235
+Establishing a Blockchain-based Architecture for Fake News Detection
+https://sol.sbc.org.br/index.php/sbcars/article/view/30236
+Robotic-supported Data Loss Detection in Android Applications
+https://sol.sbc.org.br/index.php/sbes/article/view/30344
+Code smell severity classification at class and method level with a single manually labeled imbalanced dataset
+https://sol.sbc.org.br/index.php/sbes/article/view/30345
+Towards Effective Collaboration between Software Engineers and Data Scientists developing Machine Learning-Enabled Systems
+https://sol.sbc.org.br/index.php/sbes/article/view/30345
+Investigating Accountability in Business-intensive Systems-of-Systems
+https://sol.sbc.org.br/index.php/sbes/article/view/30347
+Unveiling the Landscape of System Thinking Modeling Tools Use in Software Engineering
+https://sol.sbc.org.br/index.php/sbes/article/view/30348
+Revisiting Aristotle vs. Ringelmann: The influence of biases on measuring productivity in Open Source software development
+https://sol.sbc.org.br/index.php/sbes/article/view/30349
+A Comparison Between Hierarchical and Non-Hierarchical Software Clustering
+https://sol.sbc.org.br/index.php/sbes/article/view/30350
+How do Agile Organizations Manage Risks: An Analysis of the State of Practice in Brazil
+https://sol.sbc.org.br/index.php/sbes/article/view/30351
+Addressing the Synchronization Challenge in Cypress End-to-End Tests
+https://sol.sbc.org.br/index.php/sbes/article/view/30352
+Investigating Benefits and Limitations of Migrating to a Micro-Frontends Architecture
+https://sol.sbc.org.br/index.php/sbes/article/view/30353
+Challenges and Solutions of Free and Open Source Software Documentation: A Systematic Mapping Study
+https://sol.sbc.org.br/index.php/sbes/article/view/30354
+Views on Agile Leadership for Software Teams: A Case Study with Leaders and Non-Leaders
+https://sol.sbc.org.br/index.php/sbes/article/view/30355
+Assessing Python Style Guides: An Eye-Tracking Study with Novice Developers
+https://sol.sbc.org.br/index.php/sbes/article/view/30356
+Applying Design Science Research to Develop a Process Reference Model for IT Workforce Outsourcing: Preliminary Findings
+https://sol.sbc.org.br/index.php/sbes/article/view/30357
+Guiding the Way: Facilitating Requirements Elicitation with Selection Universe Approach
+https://sol.sbc.org.br/index.php/sbes/article/view/30358
+Categorizing IoT Software Systems Security Vulnerabilities Through Literature Studies
+https://sol.sbc.org.br/index.php/sbes/article/view/30359
+Explorando a detecção de conflitos semânticos nas integrações de código em múltiplos métodos
+https://sol.sbc.org.br/index.php/sbes/article/view/30360
+The Skill Gap in Software Industry: A Mapping Study
+https://sol.sbc.org.br/index.php/sbes/article/view/30361
+Iterative Deepening URL-Based Search: Enhancing GUI Testing for Web Applications
+https://sol.sbc.org.br/index.php/sbes/article/view/30362
+How does Technical Debt Evolve within Pull Requests? An Empirical Study with Apache Projects
+https://sol.sbc.org.br/index.php/sbes/article/view/30363
+Industrial Practices of Requirements Engineering for ML-Enabled Systems in Brazil
+https://sol.sbc.org.br/index.php/sbes/article/view/30364
+Rumo a uma Taxonomia de Observabilidade para Aplicações Baseadas em Microsserviços
+https://sol.sbc.org.br/index.php/sbes/article/view/30365
+Refinando a Precisão da Detecção de Conflitos: Uma Análise do CSDiff com Abordagem Focalizada
+https://sol.sbc.org.br/index.php/sbes/article/view/30366
+Avaliação de Métodos para Elicitação e Especificação de Requisitos de Usabilidade com Histórias de Usuário: Um Experimento Controlado
+https://sol.sbc.org.br/index.php/sbes/article/view/30367
+Exploring the Role of Job Satisfaction and Work-Life Balance: A Study on the Mental Health Among Software Engineers
+https://sol.sbc.org.br/index.php/sbes/article/view/30368
+Comparative Analysis of Large Language Model Tools for Automated Test Data Generation from BDD
+https://sol.sbc.org.br/index.php/sbes/article/view/30369
+Promise+: expandindo a base de dados de requisitos de software Promise_exp
+https://sol.sbc.org.br/index.php/sbes/article/view/30370
+Eyes on Code Smells: Analyzing Developers’ Responses During Code Snippet Analysis
+https://sol.sbc.org.br/index.php/sbes/article/view/30371
+Detecting Code Smells in JavaScript: An Annotated Dataset for Software Quality Analysis
+https://sol.sbc.org.br/index.php/sbes/article/view/30372
+A self-adaptive IoT architecture to support intelligent environments
+https://sol.sbc.org.br/index.php/sbes/article/view/30373
+On the Employment of Machine Learning for Recommending Refactorings: A Systematic Literature Review
+https://sol.sbc.org.br/index.php/sbes/article/view/30374
+Memoization of Mutable Objects
+https://sol.sbc.org.br/index.php/sblp/article/view/30251
+Compact Representations for Arrays in Lua
+https://sol.sbc.org.br/index.php/sblp/article/view/30252
+Converting Combinatory Logic to and from Concatenative Calculus
+https://sol.sbc.org.br/index.php/sblp/article/view/30253
+Differential Testing using Random Well-Typed Haskell Programs
+https://sol.sbc.org.br/index.php/sblp/article/view/30254
+OFG-STM: Transactional Memory for GPUs based on Obstruction-Free STM algorithms
+https://sol.sbc.org.br/index.php/sblp/article/view/30255
+Cloud-based parallel computing across multiple clusters in Julia
+https://sol.sbc.org.br/index.php/sblp/article/view/30256
+Semantic conflict detection via dynamic analysis
+https://sol.sbc.org.br/index.php/sblp/article/view/30257
+Go x Java e gRPC x REST: Um estudo empírico
+https://sol.sbc.org.br/index.php/sblp/article/view/30258
+Hok: Higher-Order GPU kernels in Elixir
+https://sol.sbc.org.br/index.php/sblp/article/view/30259
+An internal domain-specific language for expressing linear pipelines: a proof-of-concept with MPI in Rust
+https://sol.sbc.org.br/index.php/sblp/article/view/30260
+Towards Random Elixir Code Generation
+https://sol.sbc.org.br/index.php/sblp/article/view/30261
+The expression problem in platform-aware programming
+https://sol.sbc.org.br/index.php/sblp/article/view/30262
+Classifying C++ Solutions Based on Their Energy Profile
+https://sol.sbc.org.br/index.php/sblp/article/view/30263
+A Snapshot of OpenMP Projects on GitHub
+https://sol.sbc.org.br/index.php/sblp/article/view/30264
+Techniques for Eliciting IoT Requirements: Sensorina Map and Mind IoT
+https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/30238
+An IoT Architecture for Decision Support System in Precision Livestock
+https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/30239
+Impostor Phenomenon in Software Engineers
+https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/30240
+Organizing the State of Practice on Technical Debt Prevention, Monitoring, and Payment in Software Projects
+https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/30241
+A Large-Scale Study on Recommendations of Composite Refactorings in Practice
+https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/30242
+Identifying Concerns When Specifying Machine Learning-Enabled Systems: A Perspective-Based Approach
+https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/30243
+Investigating LLM Capabilities in the Identification of Compilation Errors in Configurable Systems
+https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/30244
+Towards the acceptance of a Prompt Engineering-based Approach to Build Proto-personas during Product Discovery
+https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/30245
+Avaliação Comparativa do GitHub Copilot e do Amazon CodeWhisperer na Geração Automática de Código-Fonte
+https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/30246
+An Empirical Study on the Detection of Test Smells in Test Codes Generated by GitHub Copilot
+https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/30247
+“I am always tired”: Perceptions on Mental Health and Productivity Metrics
+https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/30248
+Explorando o Potencial e a Viabilidade de LLMs Open-Source na Análise de Sentimentos
+https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/30249
+Preliminary Results of An Experiment on Leveraging Large Language Models to Assist Modelers in Interpreting DEVS Natural Language Models
+https://sol.sbc.org.br/index.php/mssis/article/view/30271
+A three-tiered architectural model for Digital Twins in Education
+https://sol.sbc.org.br/index.php/mssis/article/view/30274
+Use of the Dublin Core Standard to Express Open Metadata Related to Software Engineering Experiments
+https://sol.sbc.org.br/index.php/opensciense/article/view/25845
+Understanding Practices and Challenges of Developing Sustainable Research Software: A Pilot Interview
+https://sol.sbc.org.br/index.php/opensciense/article/view/25846
+Understanding Sustainability and FAIRness of Research Software
+https://sol.sbc.org.br/index.php/opensciense/article/view/25847
+Atoms of Confusion in the Android Open Source Project: A Prevalence Study
+https://sol.sbc.org.br/index.php/vem/article/view/30280
+Evaluating Test Quality in GitHub Repositories: A Comparative Analysis of CI/CD Practices Using GitHub Actions
+https://sol.sbc.org.br/index.php/vem/article/view/30281
+Towards a Product Line for Electronic Shelf Labels Domain
+https://sol.sbc.org.br/index.php/vem/article/view/30282
+Exploring the Impact of DevOps and Agile Practices from the Perspective of Source Code Analysis
+https://sol.sbc.org.br/index.php/vem/article/view/30285
+GASH – The GitHub Actions Smell Hunter
+https://sol.sbc.org.br/index.php/vem/article/view/30286
+Understanding Group Maintainership Model in the Linux Kernel Development
+https://sol.sbc.org.br/index.php/vem/article/view/30287
+What Developers Ask to ChatGPT in GitHub Pull Requests? an Exploratory Study
+https://sol.sbc.org.br/index.php/vem/article/view/30288
+An Industry View about Legacy Systems
+https://sol.sbc.org.br/index.php/vem/article/view/30289
+Identificação de Smells em Testes Fim-a-Fim Implementados em Cypress
+https://sol.sbc.org.br/index.php/vem/article/view/30277
+The Importance of Attributes in Predicting the Lifetime of Human and Automated Pull Requests
+https://sol.sbc.org.br/index.php/wbots/article/view/30518
