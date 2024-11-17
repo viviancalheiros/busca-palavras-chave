@@ -9,6 +9,7 @@ e https://sol.sbc.org.br/index.php/cbsoft*/
 
 int main(){
     Artigo *lista = malloc(sizeof(Artigo));
+    ListaPalavras palavrasGlobal[26];
     iniciaArtigo(lista);
     lerArtigos(lista);
     //imprimir(&lista);

@@ -16,7 +16,7 @@ typedef struct Artigo
 typedef struct ArtigoTem
 {
     Artigo *endArtigo;
-    struct ArtigoTem *prox;;
+    struct ArtigoTem *prox;
 } ArtigoTem;
 
 typedef struct Palavra

@@ -94,7 +94,7 @@ void lerArtigos(Artigo *lista) {
 }
 
 int ehPalavraChave(char palavra[20], char insignificantes[COL][LIN]) {
-    for(int i = 0; i < 25; i++) {
+    for(int i = 0; i < COL; i++) {
         if(strcmp(palavra, insignificantes[i]) == 0){
             return 0;
         }
@@ -103,8 +103,6 @@ int ehPalavraChave(char palavra[20], char insignificantes[COL][LIN]) {
 }
 
 void separaEntrada(char palavras[300], char insignificantes[COL][LIN]) {
-    //op = t quando estiver lendo o titulo
-    //op = u quando estiver lendo do usuario
     int indice = 0;
     char aux[20];
     for(int i = 0; palavras[i] != '\0'; i++) {
