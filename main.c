@@ -1,5 +1,6 @@
 #include "estrutura.h"
 #include "leitura.h"
+#include "inserirPalavraGlobal.h"
 
 /*Implemente um sistema de busca de documentos na internet. No caso, você deve considerar a palavra chave e as palavras que 
 compõem o nome do documento. No caso você receberá vários artigos, seu endereço, nome e palavra chaves, e deve responder a uma 
@@ -17,12 +18,12 @@ int main(){
     "nuns", "num", "numas", "in", "with", "and", "of", "an", "the", "are", 
     "on", "for", "to", "from", "does", "through", "about", "how"};
     iniciaArtigo(lista);
-    lerArtigos(lista, insignificantes);
+    lerArtigos(lista, insignificantes, palavrasGlobal);
     //imprimir(&lista);
 
     char palavras[300];
     scanf("%[^\n]", palavras);
-    separaEntrada(strlwr(palavras), insignificantes, 'u');
+    separaEntrada(strlwr(palavras), insignificantes);
 
     return 0;
 } 
