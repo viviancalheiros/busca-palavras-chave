@@ -80,19 +80,6 @@ void insereFim(Artigo **a, char nome[200], char url[300]) {
     }
 }
 
-void lerArtigos(Artigo *lista) {
-    FILE *arq;
-    arq = fopen("artigos.txt", "r");
-    char nome[200];
-    char url[300];
-    for(int i = 0; i < 20; i++) {
-        fgets(nome, 200, arq);
-        fgets(url, 300, arq);
-        insereFim(&lista, nome, url);
-    }
-    fclose(arq);
-}
-
 int ehPalavraChave(char palavra[20], char insignificantes[COL][LIN]) {
     for(int i = 0; i < COL; i++) {
         if(strcmp(palavra, insignificantes[i]) == 0){
@@ -102,7 +89,9 @@ int ehPalavraChave(char palavra[20], char insignificantes[COL][LIN]) {
     return 1;
 }
 
-void separaEntrada(char palavras[300], char insignificantes[COL][LIN]) {
+void separaEntrada(char palavras[300], char insignificantes[COL][LIN], char cod) {
+    //cod = u (entrada do usuario)
+    //cod = t (palavras do titulo)
     int indice = 0;
     char aux[20];
     for(int i = 0; palavras[i] != '\0'; i++) {
@@ -112,18 +101,40 @@ void separaEntrada(char palavras[300], char insignificantes[COL][LIN]) {
             if(palavras[i+1] == '\0') {
                 aux[indice] = '\0';
                 if(ehPalavraChave(aux, insignificantes) == 1) {
-                    printf("%s\n", aux);
-                    
+                    if(cod == 'u') {
+                        //procura a palavra (aux) na lista de palavras p/relevancia
+                        printf("%s\n", aux);
+                    } else if(cod == 't') {
+                        //se a palavra (aux) n existe na lista de palavras, cria
+
+                    }
                 }
             }
         } else {
             aux[indice] = '\0';
             if(ehPalavraChave(aux, insignificantes) == 1) {
-                printf("%s\n", aux);
-                
+                if(cod == 'u') {
+                    printf("%s\n", aux);
+                } else if(cod == 't') {
+
+                }
             }
             indice = 0;
             aux[indice] = '\0';
         }
     }
+}
+
+void lerArtigos(Artigo *lista, char insignificantes[COL][LIN]) {
+    FILE *arq;
+    arq = fopen("artigos.txt", "r");
+    char nome[200];
+    char url[300];
+    for(int i = 0; i < 20; i++) {
+        fgets(nome, 200, arq);
+        fgets(url, 300, arq);
+        insereFim(&lista, nome, url);
+        separaEntrada(strlwr(nome), insignificantes, 't');
+    }
+    fclose(arq);
 }
