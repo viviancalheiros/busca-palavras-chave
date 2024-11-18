@@ -577,3 +577,413 @@ Identificação de Smells em Testes Fim-a-Fim Implementados em Cypress
 https://sol.sbc.org.br/index.php/vem/article/view/30277
 The Importance of Attributes in Predicting the Lifetime of Human and Automated Pull Requests
 https://sol.sbc.org.br/index.php/wbots/article/view/30518
+Identifying Evidences of Computer Programming Skills Through Automatic Source Code Evaluation
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13019
+"Navegar é preciso": o Continuum Experiencial de Programação com a Web
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13020
+Um Estudo sobre o Desenvolvimento da Carreira das Estudantes do Ensino Médio Integrado em Informática
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13021
+Didática da Computação na Perspectiva da Aprendizagem Ativa
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13022
+A Method to Predict At-risk Students in Introductory Computing Courses Based on Motivation
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13023
+Modelo Inclusivo de Desenvolvimento de Objetos de Aprendizagem Acessíveis para Apoiar a Educação Inclusiva
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13024
+Computational Thinking for Youth and Adults Education: Towards a Socially Aware Model
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13025
+Supporting Students through a Recommendation System for Knowledge Acquisition in MOOCs Ecosystems
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13026
+Gamification Analytics Model for Teachers
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13027
+AFP-OPA: Arcabouço para a Escolha de Pares na Online Peer Assessment
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13028
+GGasCT: Bringing Formal Methods to the Computational Thinking
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13029
+A orientação profissional vivenciada a partir da gamificação
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13030
+Recomendação de Problemas em Juízes Onlines Utilizando Técnicas de Processamento de Linguagem Natural e Análise Dirigida aos Dados
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13031
+Diquinha: Aplicativo móvel para auxiliar no processo de aprendizado não formal em museus
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13032
+SCAA - Software de Controle de Atendimento ao Aluno
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13033
+Ilha das operações: um recurso educacional digital com múltiplas representações para a compreensão do campo aditivo
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13034
+Protótipo de um aplicativo para auxílio no aprendizado da língua portuguesa para alunos da tribo Wai Wai
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13035
+Reconhecimento facial para validação de usuário durante um questionário no Moodle
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13036
+Be a Maker: Um Aplicativo de Compartilhamento de Materiais Instrucionais Sobre Robótica Educacional
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13037
+Kaya: plataforma móvel gamificada de apoio à colaboração entre estudantes
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13038
+Versão móvel do jogo educativo Daphnia World
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13039
+Acanno: Um Jogo Eletrônico de RPG com acessibilidade em LIBRAS
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13040
+RECOACOMP: aplicativo para recomendação de objetos de aprendizagem baseado em competências
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13041
+RALibras: um protótipo offline para introduzir o ensino de Libras
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13042
+Coh-Metrix PT-BR: Uma API web de análise textual para a educação
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13043
+LabEAD: Laboratório Remoto para o Ensino de Engenharia
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13044
+Simulador de Volumetria - Uma Ferramenta para Auxiliar o Ensino Remoto de Conceitos de Titulação
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13045
+CLIO - um protótipo de aplicação de Realidade Virtual para auxiliar no ensino da disciplina de História para alunos com TDAH
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13046
+Proposta de Simulador de Coordenação de Cursos de Graduação utilizando Indústria e Educação 4.0
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13047
+Navegando no Mundo do Pensamento Computacional
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13048
+Um jogo educacional para exercitar propriedades de árvores binárias de busca
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13049
+Pharos: um jogo educacional digital inovador para auxiliar no ensino e aprendizagem da Matemática
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/13050
+Modelo de infraestrutura para publicação de dados abertos educacionais conectados de qualidade
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18187
+Investigando o Senso de Presença na Educação a Distância
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18188
+Contribuições para o Design de Gamificação em Contextos Educacionais
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18189
+Estudo sobre um curso de formação em Pensamento Computacional para professores do ensino básico das áreas de Matemática e Informática
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18190
+MREPSA: Modelo de Recomendação de Estratégias Pedagógicas baseado em Aspectos Socioafetivos do Aluno em Ambiente Virtual de Aprendizagem
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18191
+Complexity of digital resources: an analysis based on their conceptual networks
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18192
+Game Criativo: Desenvolvendo Habilidades de Pensamento Computacional, Leitura e Escrita Através da Criação de Jogos
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18193
+TAEP4.0: Teacher Assistance Educational Process Based in the Context of Education 4.0
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18194
+Jogos Inteligentes Tangíveis como Instrumento de Mensuração Cognitiva
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18195
+Proposta de Sequência Didática para Introdução da Computação e do Pensamento Computacional no Ensino Fundamental II baseada nas Metáforas de Perspectivas Culturais
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18196
+AvaliaJS: Planejamento da Avaliação do Desempenho de Alunos em Jogos Sérios
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18197
+Unir.io - Aplicativo de acesso à informação e interação em comunidades acadêmicas
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18198
+LOGEX (logEx) - Um auxílio para a resolução de problemas matemáticos envolvendo funções logarítmicas e exponenciais
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18199
+Quindim auxiliando na aprendizagem do pensamento computacional
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18201
+ARTOM - Aplicativo para Ensino de Química em Realidade Aumentada
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18202
+Ubuntu Space: Um Recurso Educacional para o enfrentamento do Racismo
+Thttps://sol.sbc.org.br/index.php/cbie_estendido/article/view/18203
+Papiro Engine: uma plataforma de criação de jogos educacionais com foco em narrativa
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18204
+Cordel Aumentado: Um aplicativo para utilização da realidade aumentada aplicada na literatura de cordel
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18205
+Aplicativo móvel de realidade virtual para o ensino multidisciplinar de conteúdos de Óptica
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18206
+FalePirata: Um Jogo Sério para Auxílio no Processo de Alfabetização Por Meio do Método Fônico
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18207
+OKIoT: Simulador de Dispositivos de Internet das Coisas integrado com o Protocolo MQTT
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18208
+Passa o bizu: Proposta de aplicativo de apoio a produção científica na graduação
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18209
+O reino de Aljabar: o desafio da balança: Um Recurso Educacional Digital para favorecer o desenvolvimento do pensamento algébrico
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18210
+Chatbot Ana - Um Agente Complementar na Inclusão Digital de Idosos
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18211
+Tutoria: uma Plataforma para Apoiar Boas Práticas de Feedback no Processo de Ensino e Aprendizagem
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18212
+Software Educativo ContaKg Bilíngue
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18213
+PC Pratique+: uma ferramenta web para auxiliar no desenvolvimento do Pensamento Computacional
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18214
+Herde: Um Jogo para a Promoção de Consciência Ambiental
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/18215
+Nidaba: Plataforma Digital para Produção de Recursos Educacionais Inclusivos Baseados em Mesa Tangível
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22581
+Skills-CT: Um Modelo para classificação dos Estágios Cognitivos das habilidades do Pensamento Computacional e desenvolvimento da Aprendizagem Criativa
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22582
+Development of Design Principles to Author AR in Education Based on Teacher's Perspectives
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22583
+Identificação de Estratégias Cognitivas Elaboradas por Estudantes na Resolução de Situações-Problema em Matemática por Meio de uma Ferramenta Digital
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22584
+Os efeitos de usar estimativas de conhecimento do aluno em programação de computadores em modelos livres de sensores de detecção da emoção confusão
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22585
+Uma Abordagem Híbrida Apoiada por Algoritmo Bioinspirado e Tecnologias de Web Semântica para Recomendação Personalizada de Objetos de Aprendizagem
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22586
+Modelagem Estatística do Tempo de Permanência de Estudantes no Estado de Confusão Através de Análise de Sobrevivência Multivariada - CTD-IE
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22587
+Implementação e avaliação de um Jogo Digital Educacional para desenvolvimento do Pensamento Computacional em crianças neurotípicas e com Deficiência Intelectual
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22588
+Supporting K-12 Students on Learning Programming Using Mobile Immersive Virtual Reality
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22589
+MeTA: Um Método para Avaliação de Tecnologias Educacionais Acessíveis
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22590
+Transformação Digital na Educação para fomentar Competências Digitais
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22591
+Um Método Baseado na Teoria da Resposta ao Item para Avaliação e Feedback Automático no Contexto de Educação Digital
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22592
+MyTDAH - Game para Crianças TDAH
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22593
+Rede Semântica de Mapas Conceituais Vidya Network
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22594
+Alfalibras: Um Software Educativo para a Alfabetização Bilíngue de Crianças Surdas
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22595
+Muiraquitã Braille: Uma Proposta de Aplicativo para Aprendizagem e Tradução do Sistema Braille
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22596
+Ágora: aplicativo desenvolvido por estudantes da educação pública para auxiliar no desenvolvimento da competência de argumentar
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22597
+Curador Virtual: um aplicativo para auxiliar na leitura de imagens
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22598
+Simulação 3D - Antártica: testemunha do tempo
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22599
+Sigedu- Sistema de Informações e Gerenciamento Educacional
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22600
+Blockly-DS: Programação em Blocos para o ensino de Ciência de Dados
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22601
+Jogo digital educacional Pensar e Lavar
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22602
+Beto, o simulador de memória cache
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22603
+Projeto Saturno: jogo sério para a motivação e aprendizagem sobre História do Brasil
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22604
+Quizle: jogo mobile e plataforma web para criação de quizzes e visualização de relatórios
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22605
+Supporting the Retrieval of Open Educational Resources for Programming Education
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22606
+Um framework para a aprendizagem de habilidades de programação e habilidades do século XXI
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22607
+Análise automatizada de coesão em redações do ensino fundamental por meio de técnicas de processamento de linguagem natural
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22608
+Aplicação de reconhecimento de entidades nomeadas para análise automática de textos narrativos em produções textuais do ensino fundamental
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22609
+A Criação de Atividades com Histórias em Quadrinhos no Desenvolvimento das Habilidades do Pensamento Computacional no Ensino Fundamental
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22610
+Comunidades de Prática em Ambientes Virtuais de Aprendizagem para o Desenvolvimento de Habilidades da Educação 4.0
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22611
+CaFE-TaMTIn: uma abordagem para o desenvolvimento e capacitação de funções executivas utilizando um sistema de interface tangível multi-representacional com aspectos de sistema tutor inteligente
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22612
+Uma Abordagem para Recomendação de Grupos integrada às Técnicas de Aprendizagem Colaborativa
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22613
+Proposta de Metodologia para Avaliação da Aprendizagem de Alunos em Jogos Sérios
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22614
+Proposta de framework para o desenvolvimento de audiojogos educacionais por meio da Pedagogia de Projetos
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/22615
+Recomendação Pedagógica Personalizada a partir do Sequenciamento de Ações Baseadas na Taxonomia de Bloom e no Perfil RASI usando Planejamento em Inteligência Artificial
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27477
+Uma Abordagem para o Ensino de Testes de Software utilizando Metodologias Ativas em Cursos Superiores de Computação
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27478
+Um Modelo baseado em Trilhas de Aprendizagem para a Representação de Alunos de Ambientes Virtuais de Aprendizagem
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27479
+Disengaging the engaged ones: gender-stereotyped tutoring systems are undermining self-efficacy and flow state of girls
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27480
+Assistente virtual ADA Blocks: Facilitando a escolha de ferramentas de programação em blocos para a Educação 4.0
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27481
+Even Boosting Stereotypes Increase The Gender Gap in Gamified Tutoring Systems: An Analysis of Self Self-efficacy, Flow and Learning
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27482
+A possibilidade de dialogar durante o desenvolvimento de projetos envolvendo a programação com o Scratch nas aulas de matemática
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27483
+Do gamified tutoring systems hinder sexual diversity? An experimental study with cis-heteronormative stereotype
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27484
+GraduAI – Sistema com Aprendizagem de Máquina para Avaliação de Risco de Evasão
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27485
+Pensamento Computacional e Scratch: Um Relato de Experiências com Estudantes do Ensino Médio Público no Distrito Federal
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27486
+UnplugGamify: Material Didático para Apoiar a Gamificação Desplugada Centrada no Estudante
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27487
+Pensar e Vestir: Jogo Digital Educacional para o Desenvolvimento do Pensamento Computacional
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27488
+Jornada Biomas Escolas: um jogo digital em prol da conservação da biodiversidade
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27489
+Game Comenius 3
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27490
+Furbot: um jogo para auxiliar no desenvolvimento de habilidades do Pensamento Computacional
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27491
+RevisãoOnline: Plataforma online de escrita e revisão de textos dissertativo-argumentativos
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27492
+BackTest: o software de feedback da avaliação qualitativa que promove aprendizagem personalizada
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27493
+Laboratório Remoto de Programação Básica de Sistemas Digitais
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27494
+Plataforma Educacional Bootebook
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27495
+Cadê Minha Pizza? Exercitando Matemática e Pensamento Computacional de forma lúdica por meio de grafos
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27496
+Palavras Mágicas: um jogo de plataforma para exercitar a Língua Portuguesa
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27497
+ADA Blocks: assistente virtual para apoiar professores na escolha de ferramentas de programação em blocos
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27498
+Rabbit Code: Um jogo voltado para a aprendizagem de matrizes
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27499
+MyName: um jogo educacional inspirado no problema da mochila
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27500
+aquare!a: um repositório dinâmico para elaboração e compartilhamento de Recursos Educacionais Abertos
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27501
+Observatório Social: Plataforma Online para Publicação e Acesso de Artigos de Pesquisa
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27502
+Avalanche Silábica: jogo educacional para aprendizagem de encontros vocálicos na Língua Portuguesa
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27503
+The Island: Calculated Defense - Praticando Operações de Adição e Subtração
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27504
+Yerê e a Ilha Precisa: Um jogo RPG para exercitar a aprendizagem de literatura
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27505
+Enigma pirata: um jogo para exercitar Matemática e Pensamento Computacional através da Teoria dos Conjuntos
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27506
+Hello Food: um jogo para exercitar conceitos de programação e Pensamento Computacional
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27507
+LOGICUBE: Um Artefato de Interação Tangível para Ensino de Pensamento Computacional para Crianças
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27508
+Resgate Binário: Um jogo educacional para praticar conversão de números decimais para base binária e Pensamento Computacional
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27509
+Pensar e Vestir: Desenvolvimento do Pensamento Computacional por meio de um Jogo Digital Educacional
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27510
+CollabProg: Um Repositório Colaborativo Aberto para Apoiar na Adoção de Metodologias Ativas no Ensino de Programação
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27511
+iVProg4All: uma abordagem de programação visual acessível para pessoas cegas
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27512
+Furbot: mini games para auxiliar no desenvolvimento do Pensamento Computacional
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27513
+Mestre dos Sucos: mix de frações - Um Recurso Educacional Digital gamificado para desenvolver habilidades cognitivas e socioemocionais
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27514
+O uso das tecnologias digitais para o desenvolvimento do raciocínio geográfico
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27515
+Uma Proposta para Modelagem de Ecossistemas Educacionais a partir de Experiências de Aprendizagem ao Longo da Vida
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27516
+Aprendizagem colaborativa auxiliada por computador e inclusão digital: Um método aplicado na educação profissional de jovens e adultos na modalidade EJA (Proeja)
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27517
+Estratégias de Acessibilidade em IDEs para Estudantes com Deficiência Visual
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27518
+Aprendizagem Autorregulada em MOOCs por meio de um Painel para Visualização de Dados
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27519
+Uma proposta de melhoria dos Processos de Ensino Aprendizagem para Laboratórios Remotos
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27520
+Uma proposta de arquitetura computacional para autoria de jogos digitais educacionais com suporte a técnicas de analíticas de aprendizagem - STUDX
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27521
+Developing a Toolkit for evaluation of gamification in educational environments
+https://sol.sbc.org.br/index.php/cbie_estendido/article/view/27522
+Fazendo uso de Inteligência Artificial para ensinar música para crianças surdas
+https://sol.sbc.org.br/index.php/wie/article/view/31041
+Tecnologias Digitais na Educação de Jovens e Adultos: um relato sobre ações de reconhecimento e combate a riscos virtuais
+https://sol.sbc.org.br/index.php/wie/article/view/31042
+Desenvolvendo habilidades de leitura e escrita através da produção de Podcast
+https://sol.sbc.org.br/index.php/wie/article/view/31043
+A produção de mídias digitais como prática acadêmica: um estudo acerca da aprendizagem no Ensino Superior
+https://sol.sbc.org.br/index.php/wie/article/view/31044
+Padlet e Filosofia: Uma Nova Perspectiva de Aprendizagem 
+https://sol.sbc.org.br/index.php/wie/article/view/31045
+Storytelling e Currículo Integrado: uma Experiência num Curso de Informática
+https://sol.sbc.org.br/index.php/wie/article/view/31046
+Algoritmos Adaptados para Alunos com Deficiência Visual: Inovando o Ensino de Matemática Através de Dobraduras de Papel e Pensamento Computacional
+https://sol.sbc.org.br/index.php/wie/article/view/31047
+Ensinando conceitos matemáticos a partir do Jogo Bridge Construction Simulator
+https://sol.sbc.org.br/index.php/wie/article/view/31048
+Potencializando o Engajamento no Ensino de Engenharia de Software e Requisitos: Relatos de Experiências com a Dinâmica Fábrica de Aviões
+https://sol.sbc.org.br/index.php/wie/article/view/31049
+O Uso das Tecnologias para Inclusão: a Vivência Escolar de uma Estudante com a Dupla Condição
+https://sol.sbc.org.br/index.php/wie/article/view/31050
+Estimulando o Aprendizado de Matemática no Ensino Fundamental: Uma Abordagem Prática Integrando Jogos Digitais e Materiais Físicos
+https://sol.sbc.org.br/index.php/wie/article/view/31051
+Promovendo a Inclusão e Permanência Feminina nos Cursos de Computação Através do Ensino de Robótica: Um Relato de Experiência
+https://sol.sbc.org.br/index.php/wie/article/view/31052
+Transformando Ideias em Aplicativos de Celular: um Relato de Experiência em uma Disciplina de Projeto e Prática no Ensino Médio Técnico
+https://sol.sbc.org.br/index.php/wie/article/view/31053
+O desenvolvimento do pensamento computacional por meio do clube de inovadores
+https://sol.sbc.org.br/index.php/wie/article/view/31054
+Arquiteturas Pedagógicas e Aprendizagem Cooperativa em Ambientes Digitais: um relato de experiência
+https://sol.sbc.org.br/index.php/wie/article/view/31055
+Segurança digital em HQs: Estimulando autoria e protagonismo no 4º ano do ensino fundamental
+https://sol.sbc.org.br/index.php/wie/article/view/31056
+Explorando o uso da Realidade Aumentada e Realidade Virtual no Ensino de Ciências Naturais para alunos do Fundamental II
+https://sol.sbc.org.br/index.php/wie/article/view/31057
+Ensino de Algoritmos para Pessoa com Deficiência Visual: Um Relato de Experiência no Ensino Superior
+https://sol.sbc.org.br/index.php/wie/article/view/31058
+Arquiteturas Pedagógicas e Modelagem 3D na aprendizagem de Levantamento Arquitetônico
+https://sol.sbc.org.br/index.php/wie/article/view/31059
+Integrando Práticas de Design Thinking no Ensino e Aprendizagem de Requisitos de Software: Um Relato de Experiência
+https://sol.sbc.org.br/index.php/wie/article/view/31060
+Desenvolvendo Competências para o Empreendedorismo Tecnológico: Experiência e Resultados em uma Formação Básica
+https://sol.sbc.org.br/index.php/wie/article/view/31061
+O Instagram como ferramenta para a aprendizagem de Estatística: uma experiência com estudantes do 8º ano do Ensino Fundamental
+https://sol.sbc.org.br/index.php/wie/article/view/31062
+Explorando a Robótica para mitigar Desafios Comportamentais e de Aprendizado em Programação na Graduação
+https://sol.sbc.org.br/index.php/wie/article/view/31063
+A Influência dos Jogos Digitais no Comportamento dos Alunos do 4º Ano do Ensino Fundamental: Um Relato de Experiência dos Pibidianos de Computação
+https://sol.sbc.org.br/index.php/wie/article/view/31064
+Formas geométricas planas e espaciais por meio de habilidades do Pensamento Computacional: Estudo de caso com alunos com deficiência visual
+https://sol.sbc.org.br/index.php/wie/article/view/31065
+App Lab para Jovens: desenvolvimento, aplicação e avaliação de um curso de aplicativo
+https://sol.sbc.org.br/index.php/wie/article/view/31066
+O Ensino dos Conceitos de Dados e Informações: Relato de uma Experiência para o Ensino Fundamental I
+https://sol.sbc.org.br/index.php/wie/article/view/31067
+Um Relato de Experiência: Ensino de Programação e Eletrônica Básica através de Oficinas de Robótica em Escola Pública de Nível Fundamental e Médio
+https://sol.sbc.org.br/index.php/wie/article/view/31068
+Implementação da Computação na Rede Educacional de Dois Irmãos/RS: Panorama de Um Desafio Possível
+https://sol.sbc.org.br/index.php/wie/article/view/31069
+Principais Aplicações da Computação Desplugada no Ensino Fundamental II: Um Mapeamento Sistemático da Literatura
+https://sol.sbc.org.br/index.php/wie/article/view/31070
+Life&Health: Integrando Novas Tendências de Tecnologias Digitais na Educação
+https://sol.sbc.org.br/index.php/wie/article/view/31071
+Relato de Experiência de Atividades Desplugadas de Ciência de Dados para Crianças
+https://sol.sbc.org.br/index.php/wie/article/view/31072
+Engenharia para Crianças e Jovens: Uma abordagem STEAM para ensino de programação na educação básica
+https://sol.sbc.org.br/index.php/wie/article/view/31073
+Três Anos de Código: Uma Análise das Percepções, Desafios e Expectativas no Ensino de Programação
+https://sol.sbc.org.br/index.php/wie/article/view/31074
+Da Ideia ao Jogo: Desenvolvendo o Pensamento Computacional no Ensino Médio Através da Disciplina Playcode
+https://sol.sbc.org.br/index.php/wie/article/view/31075
+Transformação Educacional e Inclusão Digital: Os impactos da Programação na vida de jovens do interior de Alagoas
+https://sol.sbc.org.br/index.php/wie/article/view/31076
+Atividades Desplugadas na Escola: a Importância de Levar o Pensamento Computacional de Maneira Concreta para a Educação Básica
+https://sol.sbc.org.br/index.php/wie/article/view/31077
+Análise do ensino de computação nas escolas das cidades Camaragibe e São Lourenço da Mata da GRE Metro Sul - PE
+https://sol.sbc.org.br/index.php/wie/article/view/31078
+Desenvolvimento de Soft Skills a partir de atividade relacionada a computação desplugada
+https://sol.sbc.org.br/index.php/wie/article/view/31079
+Formação de leitores ubíquo com Scratch: experiência com estudantes do quarto ano do Ensino Fundamental na Rede Pública
+https://sol.sbc.org.br/index.php/wie/article/view/31080
+Robótica Educativa para Desenvolvimento de Habilidades do Pensamento Computacional por meio de Eletiva Complementar
+https://sol.sbc.org.br/index.php/wie/article/view/31081
+Desenvolvimento do Pensamento Computacional em Escolas Públicas do Ensino Médio: Um Relato de Experiência 
+https://sol.sbc.org.br/index.php/wie/article/view/31082
+Computação Desplugada e IA: novas abordagens para a educação contemporânea
+https://sol.sbc.org.br/index.php/wie/article/view/31083
+O desenvolvimento do pensamento no contexto da resolução de problemas em robótica
+https://sol.sbc.org.br/index.php/wie/article/view/31084
+Oficinas de Robótica Educacional para estudantes em distorção idade-série: contribuições para aprendizagem cooperativa
+https://sol.sbc.org.br/index.php/wie/article/view/31085
+Experiências Computacionais Educativas Construcionistas (ExCEC) como contexto para a aprendizagem de números negativos e desenvolvimento do pensamento computacional
+https://sol.sbc.org.br/index.php/wie/article/view/31086
+Uma Arquitetura Pedagógica para a Construção de Micropráticas de Pensamento Computacional no Contexto do Ensino de Ciências
+https://sol.sbc.org.br/index.php/wie/article/view/31087
+Bits no Espaço: avaliação de um jogo analógico de tabuleiro para o ensino de lógica de programação com Python
+https://sol.sbc.org.br/index.php/wie/article/view/31088
+Segurança Digital: Desenvolvendo habilidades da BNCC Computação - visão dos Professores
+https://sol.sbc.org.br/index.php/wie/article/view/31089
+Implantação do Ensino de Computação nas Escolas do Sertão do Submédio São Francisco: uma Investigação do Contexto Regional
+https://sol.sbc.org.br/index.php/wie/article/view/31090
+Educação Inclusiva em Realidade Aumentada: Recurso Instrucional Digital para Apoiar a Formação de Alunos no Ensino de Computação
+https://sol.sbc.org.br/index.php/wie/article/view/31091
+Uma reflexão sobre a inserção do Pensamento Computacional na Educação Básica no Brasil
+https://sol.sbc.org.br/index.php/wie/article/view/31092
+InfoGirl: Uma Década de Jornada Rumo à Equidade de Gênero na Tecnologia da Informação no Estado do Ceará
+https://sol.sbc.org.br/index.php/wie/article/view/31093
+Promovendo a Integração entre Ciência, Tecnologia e Sustentabilidade: Um Relato de Experiência
+https://sol.sbc.org.br/index.php/wie/article/view/31094
+PET-Recebe: Apresentando um Campus Universitário Temático na Área de Tecnologia da Informação para Estudantes de Escolas Públicas do Interior do Ceará
+https://sol.sbc.org.br/index.php/wie/article/view/31095
+Ecossistemas de Aprendizagem: um experimento com licenciandos em computação
+https://sol.sbc.org.br/index.php/wie/article/view/31096
+Uma Arquitetura Pedagógica para o Desenvolvimento do Pensamento Computacional na Educação Básica
+https://sol.sbc.org.br/index.php/wie/article/view/31097
+Defensor Digital 60+: uma proposta de metodologia para inclusão digital da pessoa idosa
+https://sol.sbc.org.br/index.php/wie/article/view/31098
+Desenvolvimento de Competências Docentes em Computação para Fomento da Programação Competitiva: Um Relato da Disciplina de Estágio em Docência
+https://sol.sbc.org.br/index.php/wie/article/view/31099
+A Formação De Professores E Sua Relação Com O Uso Das Tecnologias Digitais Nas Práticas Pedagógicas
+https://sol.sbc.org.br/index.php/wie/article/view/31100
+Alfabetização Digital na Educação Básica: Ensino de Computação em Escolas Estaduais
+https://sol.sbc.org.br/index.php/wie/article/view/31101
+A perspectiva docente na integração das tecnologias: utilizando atividades investigativas no ensino de Matemática
+https://sol.sbc.org.br/index.php/wie/article/view/31102
+Modelagem e impressão 3D aplicadas a criação de objetos de aprendizagem assistivos
+https://sol.sbc.org.br/index.php/wie/article/view/31103
+Arquiteturas Pedagógicas: um experimento de ensino com licenciandos em computação
+https://sol.sbc.org.br/index.php/wie/article/view/31104
