@@ -8,7 +8,6 @@
 typedef struct Artigo
 {
     char titulo[200];
-    char link[300];
     int relevancia;
     struct Artigo *prox;
 } Artigo;
@@ -19,10 +18,16 @@ typedef struct ArtigoTem
     struct ArtigoTem *prox;
 } ArtigoTem;
 
+typedef struct ListaArtigoTem
+{
+    ArtigoTem *inicio;
+    ArtigoTem *final;
+} ListaArtigoTem;
+
 typedef struct Palavra
 {
     char titulo[20];
-    ArtigoTem *listaTem;
+    ListaArtigoTem *listaTem;
     struct Palavra *prox;
 } Palavra;
 
@@ -38,19 +43,18 @@ typedef struct ListaPalavras
     Palavra *final;
 } ListaPalavras;
 
-typedef struct ListaArtigoTem
-{
-    ArtigoTem *inicio;
-    ArtigoTem *final;
-} ListaArtigoTem;
-
 void iniciaArtigo(Artigo *a);
 void iniArtigoTem(ArtigoTem *a);
+void iniListaArtigoTem (ListaArtigoTem *l);
 void iniciaPalavra(Palavra *p);
 void iniListaArtigo(ListaArtigos *l);
 void iniListaPalavra(ListaPalavras *l);
-void iniListaArtigoTem (ListaPalavras *l);
 void resetaRelevancia(Artigo *a);
-void imprimir(Artigo **lista);
+void incluiArtigo(ListaArtigos *lista, char titulo[200]);
+Palavra *incluirPalavra (ListaPalavras *lista, char palavra[20]);
+void incluirArtigoTem (ListaArtigoTem *lista, Artigo *end_artigo);
+void imprimirArtigo(Artigo *a);
+void imprimirListaArtigos(Artigo *atual);
+void iniPalavraGlobal(ListaPalavras lista[26]);
 
 #endif

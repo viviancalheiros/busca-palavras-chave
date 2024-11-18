@@ -1,0 +1,494 @@
+Embracing Data Irregularities in Multivariate Time Series with Recurrent and Graph Neural Networks
+Regulation and Ethics of Facial Recognition Systems: An Analysis of Cases in the Court of Appeal in the State of São Paulo
+A Combinatorial Optimization Model and Polynomial Time Heuristic for a Problem of Finding Specific Structural Patterns in Networks
+Efficient Density-Based Models for Multiple Machine Learning Solutions over Large Datasets
+Exploring Text Decoding Methods for Portuguese Legal Text Generation
+Community Detection for Multi-label Classification
+A Monte Carlo Algorithm for Time-Constrained General Game Playing
+α-MCMP: Trade-Offs Between Probability and Cost in SSPs with the MCMP Criterion
+Specifying Preferences over Policies Using Branching Time Temporal Logic
+Logic-Based Explanations for Linear Support Vector Classifiers with Reject Option
+The Multi-attribute Fairer Cover Problem
+A Custom Bio-Inspired Algorithm for the Molecular Distance Geometry Problem
+Allocating Dynamic and Finite Resources to a Set of Known Tasks
+A Multi-algorithm Approach to the Optimization of Thermal Power Plants Operation
+An Incremental MaxSAT-Based Model to Learn Interpretable and Balanced Classification Rules
+d-CC Integrals: Generalizing CC-Integrals by Restricted Dissimilarity Functions with Applications to Fuzzy-Rule Based Systems
+FeatGeNN: Improving Model Performance for Tabular Data with Correlation-Based Feature Extraction
+Hierarchical Time-Aware Approach for Video Summarization
+Analyzing College Student Dropout Risk Prediction in Real Data Using Walk-Forward Validation
+The Artificial Intelligence as a Technological Resource in the Application of Tasks for the Development of Joint Attention in Children with Autism
+Machine Teaching: An Explainable Machine Learning Model for Individualized Education
+BLUEX: A Benchmark Based on Brazilian Leading Universities Entrance eXams
+Towards Generating P-Contrastive Explanations for Goal Selection in Extended-BDI Agents
+Applying Theory of Mind to Multi-agent Systems: A Systematic Review
+A Spin-off Version of Jason for IoT and Embedded Multi-Agent Systems
+Hybrid Multilevel Explanation: A New Approach for Explaining Regression Models
+Explainability of COVID-19 Classification Models Using Dimensionality Reduction of SHAP Values
+An Explainable Model to Support the Decision About the Therapy Protocol for AML
+Bayes and Laplace Versus the World: A New Label Attack Approach in Federated Environments Based on Bayesian Neural Networks
+MAT-Tree: A Tree-Based Method for Multiple Aspect Trajectory Clustering
+Transformer Model for Fault Detection from Brazilian Pre-salt Seismic Data
+Evaluating Recent Legal Rhetorical Role Labeling Approaches Supported by Transformer Encoders
+Dog Face Recognition Using Vision Transformer
+Convolutional Neural Networks for the Molecular Detection of COVID-19
+Hierarchical Graph Convolutional Networks for Image Classification
+Interpreting Convolutional Neural Networks for Brain Tumor Classification: An Explainable Artificial Intelligence Approach
+Enhancing Stock Market Predictions Through the Integration of Convolutional and Recursive LSTM Blocks: A Cross-market Analysis
+Ensemble Architectures and Efficient Fusion Techniques for Convolutional Neural Networks: An Analysis on Resource Optimization Strategies
+Dog Face Recognition Using Deep Features Embeddings
+Clinical Oncology Textual Notes Analysis Using Machine Learning and Deep Learning
+EfficientDeepLab for Automated Trachea Segmentation on Medical Images
+Multi-label Classification of Pathologies in Chest Radiograph Images Using DenseNet
+Does Pre-training on Brain-Related Tasks Results in Better Deep-Learning-Based Brain Age Biomarkers?
+Applying Reinforcement Learning for Multiple Functions in Swarm Intelligence
+Deep Reinforcement Learning for Voltage Control in Power Systems
+Performance Analysis of Generative Adversarial Networks and Diffusion Models for Face Aging
+Occluded Face In-painting Using Generative Adversarial Networks—A Review
+Classification of Facial Images to Assist in the Diagnosis of Autism Spectrum Disorder: A Study on the Effect of Face Detection and Landmark Identification Algorithms
+Constructive Machine Learning and Hierarchical Multi-label Classification for Molecules Design
+AutoMMLC: An Automated and Multi-objective Method for Multi-label Classification
+Merging Traditional Feature Extraction and Deep Learning for Enhanced Hop Variety Classification: A Comparative Study Using the UFOP-HVD Dataset
+Feature Selection and Hyperparameter Fine-Tuning in Artificial Neural Networks for Wood Quality Classification
+A Feature-Based Out-of-Distribution Detection Approach in Skin Lesion Classification
+A Framework for Characterizing What Makes an Instance Hard to Classify
+Physicochemical Properties for Promoter Classification
+Critical Analysis of AI Indicators in Terms of Weighting and Aggregation Approaches
+Estimating Code Running Time Complexity with Machine Learning
+The Effect of Statistical Hypothesis Testing on Machine Learning Model Selection
+Multiobjective Evolutionary Algorithms Applied to the Optimization of Expanded Genetic Codes
+Genetic Algorithms with Optimality Cuts to the Max-Cut Problem
+Assessment of Robust Multi-objective Evolutionary Algorithms on Robust and Noisy Environments
+Binary Flying Squirrel Optimizer for Feature Selection
+Fitness Landscape Analysis of TPOT Using Local Optima Network
+Optimization Strategies for BERT-Based Named Entity Recognition
+FlexCon-CE: A Semi-supervised Method with an Ensemble-Based Adaptive Confidence
+Single Image Super-Resolution Based on Capsule Neural Networks
+Development of a Deep Learning Model for the Classification of Mosquito Larvae Images
+A Simple and Low-Cost Method for Leaf Surface Dimension Estimation Based on Digital Images
+Crop Row Line Detection with Auxiliary Segmentation Task
+Multiple Object Tracking in Native Bee Hives: A Case Study with Jataí in the Field
+An Open Source Eye Gaze Tracker System to Perform Remote User Testing Evaluations
+Who Killed the Winograd Schema Challenge?
+Sabiá: Portuguese Large Language Models
+Disambiguation of Universal Dependencies Part-of-Speech Tags of Closed Class Words in Portuguese
+Bete: A Brazilian Portuguese Dataset for Named Entity Recognition and Relation Extraction in the Diabetes Healthcare Domain
+LegalBert-pt: A Pretrained Language Model for the Brazilian Portuguese Legal Domain
+A Framework for Controversial Political Topics Identification Using Twitter Data
+Leveraging Sign Language Processing with Formal SignWriting and Deep Learning Architectures
+A Clustering Validation Index Based on Semantic Description
+Detecting Multiple Epidemic Sources in Network Epidemics Using Graph Neural Networks
+Prediction of Cancer-Related miRNA Targets Using an Integrative Heterogeneous Graph Neural Network-Based Method
+Time Series Forecasting of COVID-19 Cases in Brazil with GNN and Mobility Networks
+Federated Learning and Mel-Spectrograms for Physical Violence Detection in Audio
+Police Report Similarity Search: A Case Study
+Evaluating Contextualized Embeddings for Topic Modeling in Public Bidding Domain
+A Tool for Measuring Energy Consumption in Data Stream Mining
+Improved Fuzzy Decision System for Energy Bill Reduction in the Context of the Brazilian White Tariff Scenario
+Exploring Artificial Intelligence Methods for the Automatic Measurement of a New Biomarker Aiming at Glaucoma Diagnosis
+Investigation of Deep Active Self-learning Algorithms Applied to Named Entity Recognition
+A Conversational Agent to Support Hospital Bed Allocation
+A Protocol for Argumentation-Based Persuasive Negotiation Dialogues
+Gradient Estimation in Model-Based Reinforcement Learning: A Study on Linear Quadratic Environments
+Intelligent Agents for Observation and Containment of Malicious Targets Organizations
+MAS4GC: Multi-agent System for Glycemic Control of Intensive Care Unit Patients
+On the Impact of MDP Design for Reinforcement Learning Agents in Resource Management
+Slot Sharing Mechanism in Multi-domain Dialogue Systems
+A Graph-Based Crossover and Soft-Repair Operators for the Steiner Tree Problem
+A Modified NSGA-DO for Solving Multiobjective Optimization Problems
+An Enhanced TSP-Based Approach for Active Debris Removal Mission Planning
+Dynamic Learning in Hyper-Heuristics to Solve Flowshop Problems
+Hyper-Heuristic Based NSGA-III for the Many-Objective Quadratic Assignment Problem
+I2DE: Improved Interval Differential Evolution for Numerical Constrained Global Optimization
+Improving a Genetic Clustering Approach with a CVI-Based Objective Function
+Improving Particle Swarm Optimization with Self-adaptive Parameters, Rotational Invariance, and Diversity Control
+Improving Rule Based and Equivalent Decision Simplifications for Bloat Control in Genetic Programming Using a Dynamic Operator
+Lackadaisical Quantum Walk in the Hypercube to Search for Multiple Marked Vertices
+On the Analysis of CGP Mutation Operators When Inferring Gene Regulatory Networks Using ScRNA-Seq Time Series Data
+Online Selection of Heuristic Operators with Deep Q-Network: A Study on the HyFlex Framework
+A Systematic Approach to Define Semantics for Prioritised Logic Programs
+Active Learning and Case-Based Reasoning for the Deceptive Play in the Card Game of Truco
+ASPIC? and the Postulates of Non-interference and Crash-Resistance
+On the Refinement of Compensation-Based Semantics for Weighted Argumentation Frameworks
+Ontology Based Classification of Electronic Health Records to Support Value-Based Health Care
+A Co-occurrence Based Approach for Mining Overlapped Co-clusters in Binary Data
+A Comparative Study on Concept Drift Detectors for Regression
+A Kullback-Leibler Divergence-Based Locally Linear Embedding Method: A Novel Parametric Approach for Cluster Analysis
+Classifying Potentially Unbounded Hierarchical Data Streams with Incremental Gaussian Naive Bayes
+Coarsening Algorithm via Semi-synchronous Label Propagation for Bipartite Networks
+Evaluating Clustering Meta-features for Classifier Recommendation
+Fast Movelet Extraction and Dimensionality Reduction for Robust Multiple Aspect Trajectory Classification
+Interpreting Classification Models Using Feature Importance Based on Marginal Local Effects
+On the Generalizations of the Choquet Integral for Application in FRBCs
+Optimizing Diffusion Rate and Label Reliability in a Graph-Based Semi-supervised Classifier
+Tactical Asset Allocation Through Random Walk on Stock Network
+A Heterogeneous Network-Based Positive and Unlabeled Learning Approach to Detect Fake News
+Anomaly Detection in Brazilian Federal Government Purchase Cards Through Unsupervised Learning Techniques
+De-Identification of Clinical Notes Using Contextualized Language Models and a Token Classifier
+Detecting Early Signs of Insufficiency in COVID-19 Patients from CBC Tests Through a Supervised Learning Approach
+Encoding Physical Conditioning from Inertial Sensors for Multi-step Heart Rate Estimation
+Ensemble of Protein Stability upon Point Mutation Predictors
+Ethics of AI: Do the Face Detection Models Act with Prejudice?
+Evaluating Topic Models in Portuguese Political Comments About Bills from Brazil’s Chamber of Deputies
+Evaluation of Convolutional Neural Networks for COVID-19 Classification on Chest X-Rays
+Experiments on Portuguese Clinical Question Answering
+Long-Term Map Maintenance in Complex Environments
+Supervised Training of a Simple Digital Assistant for a Free Crop Clinic
+The Future of AI: Neat or Scruffy?
+Weapon Engagement Zone Maximum Launch Range Estimation Using a Deep Neural Network
+Code Autocomplete Using Transformers
+Deep Convolutional Features for Fingerprint Indexing
+How to Generate Synthetic Paintings to Improve Art Style Classification
+Iris-CV: Classifying Iris Flowers Is Not as Easy as You Thought
+Performance Analysis of YOLOv3 for Real-Time Detection of Pests in Soybeans
+Quaternion-Valued Convolutional Neural Network Applied for Acute Lymphoblastic Leukemia Diagnosis
+Sea State Estimation with Neural Networks Based on the Motion of a Moored FPSO Subjected to Campos Basin Metocean Conditions
+Time-Dependent Item Embeddings for Collaborative Filtering
+Transfer Learning of Shapelets for Time Series Classification Using Convolutional Neural Network
+A Deep Learning Approach for Aspect Sentiment Triplet Extraction in Portuguese
+Aggressive Language Detection Using VGCN-BERT for Spanish Texts
+An Empirical Study of Text Features for Identifying Subjective Sentences in Portuguese
+Comparing Contextual Embeddings for Semantic Textual Similarity in Portuguese
+Deep Active-Self Learning Applied to Named Entity Recognition
+DEEPAGÉ: Answering Questions in Portuguese About the Brazilian Environment
+Enriching Portuguese Word Embeddings with Visual Information
+Entity Relation Extraction from News Articles in Portuguese for Competitive Intelligence Based on BERT
+Experiments on Kaldi-Based Forced Phonetic Alignment for Brazilian Portuguese
+Incorporating Text Specificity into a Convolutional Neural Network for the Classification of Review Perceived Helpfulness
+Joint Event Extraction with Contextualized Word Embeddings for the Portuguese Language
+mRAT-SQL+GAP: A Portuguese Text-to-SQL Transformer
+Named Entity Recognition for Brazilian Portuguese Product Titles
+Portuguese Neural Text Simplification Using Machine Translation
+Rhetorical Role Identification for Portuguese Legal Documents
+Speech2Phone: A Novel and Efficient Method for Training Speaker Recognition Models
+Text Classification in Legal Documents Extracted from Lawsuits in Brazilian Courts
+Universal Dependencies-Based PoS Tagging Refinement Through Linguistic Resources
+When External Knowledge Does Not Aggregate in Named Entity Recognition
+Perfil diagnóstico do nível cibercultural de estudantes de graduação para aplicação da metodologia Sala de Aula Invertida
+Cidades Inteligentes: Entendendo um semáforo inteligente com simulações usando robótica educacional
+Tutor Inteligente em Jogo Educacional Digital para Capacitação na Identificação de Fake News em Português: Experimentos Preliminares
+Proposta de Jogo Serio para o Ensino de Uroginecologia
+Desenvolvimento de um website educacional acessível com o Wordpress: um estudo de caso
+Avaliação de jogo educacional para pessoas com deficiência intelectual: um estudo de caso com o PegAgente
+Processo Participativo de Engenharia de Requisitos para Construção de Tecnologias Educacionais: Versão Preliminar
+Uma Proposta para Uso de Computação Desplugada no Ensino Híbrido
+Correlação entre habilidade de resolução de problemas e desempenho em disciplina introdutória de programação
+Abordagem didática para a popularização da Internet das Coisas na Educação Básica
+Simulação de Ações de Coordenação de Curso Superior: Uma proposta de ferramenta
+Uma Proposta de um Modelo de Decisão com Foco na Imersão para Serious Games Baseados em Vídeos 360º
+Um Modelo de Recomendação de Objetos Aprendizagem Baseado em Valores Culturais dos Estudantes
+Block Interchange and Reversal Distance on Unbalanced Genomes
+circTIS: A Weighted Degree String Kernel with Support Vector Machine Tool for Translation Initiation Sites Prediction in circRNA
+Evaluating the Molecular—Electronic Structure and the Antiviral Effect of Functionalized Heparin on Graphene Oxide Through Ab Initio Computer Simulations and Molecular Docking
+Make No Mistake! Why Do Tools Make Incorrect Long Non-coding RNA Classification?
+Spectrum-Based Statistical Methods for Directed Graphs with Applications in Biological Data
+Feature Selection Investigation in Machine Learning Docking Scoring Functions
+Using Natural Language Processing for Context Identification in COVID-19 Literature
+A Framework for Inference and Selection of Cell Signaling Pathway Dynamic Models
+Intentional Semantics for Molecular BiologyPeptide-Protein Interface Classification Using Convolutional Neural Networks
+A Power Law Semantic Similarity from Gene Ontology
+Gene Networks Inference by Reinforcement Learning
+Exploring Identifiability in Hybrid Models of Cell Signaling Pathways
+transcAnalysis: A Snakemake Pipeline for Differential Expression and Post-transcriptional Modification Analysis
+TVTAT - A Real Time Camera Imaging Testing Tool for Smart TVs: Preliminary Results
+Exploring Tools for Flaky Test Detection, Correction, and Mitigation: A Systematic Mapping Study
+TSS Tool: Automation Tool Applied in the True Single SKU Setup Environment Preparation for Multiple Devices in Parallel
+Mutation Testing to Support the Security Testing of Android Applications
+Property-based Testing for Machine Learning Models
+Benchmark review and case study of stress test for a gaming computer applied in CPU
+A Rapid Review on Advanced Software-in-the-Loop Methods for Automotive Software Verification
+TString: a tool to locate the target string’s screen based on automatic exploration
+Reports on using an ABB robot in Android mobile testing automation
+Reducing the Allocation of Software Testing Demand: A Study on the Pros and Cons using STELA Tool
+Enhancing Automated Tools: Reporting Bugs with Bug Builder
+Experiences with Google Approval Process: an automated approach to enhancing efficiency in Android releases
+Smart Test Execution of Android Compatibility Tests
+Benefits and Challenges of a Physical Device Farm for Automated Software Testing: A Case Study of the STELA Tool Implementation
+Reducing Rework in Automotive Software through Simulation-Guided Verification
+ADPS: Providing asynchronous PubSub communication in an adaptive and scalable way in Edge-Fog-Cloud architectures for healthcare data traffic
+Evaluating the performance of NSGA-II and NSGA-III on Product Line Architecture Design
+Large Language Model-based suggestion of objective functions for search-based Product Line Architecture design
+Guidelines for Data Engineering Documentation in a DevDocOps Approach
+Unleashing the Future of Smart Homes: A Revelation of Cutting-Edge Distributed Architecture
+Issue Labeling Dynamics in Open-Source Projects: A Comprehensive Analysis
+A Catalog of Interoperability Solutions for Ambient Assisted Living
+Investigating Developer Experience in Software Reuse
+TriCache: Providing three-tier caching for time series data in serverless healthcare services
+Establishing a Blockchain-based Architecture for Fake News Detection
+Robotic-supported Data Loss Detection in Android Applications
+Code smell severity classification at class and method level with a single manually labeled imbalanced dataset
+Towards Effective Collaboration between Software Engineers and Data Scientists developing Machine Learning-Enabled Systems
+Investigating Accountability in Business-intensive Systems-of-Systems
+Unveiling the Landscape of System Thinking Modeling Tools Use in Software Engineering
+Revisiting Aristotle vs. Ringelmann: The influence of biases on measuring productivity in Open Source software development
+A Comparison Between Hierarchical and Non-Hierarchical Software Clustering
+How do Agile Organizations Manage Risks: An Analysis of the State of Practice in Brazil
+Addressing the Synchronization Challenge in Cypress End-to-End Tests
+Investigating Benefits and Limitations of Migrating to a Micro-Frontends Architecture
+Challenges and Solutions of Free and Open Source Software Documentation: A Systematic Mapping Study
+Views on Agile Leadership for Software Teams: A Case Study with Leaders and Non-Leaders
+Assessing Python Style Guides: An Eye-Tracking Study with Novice Developers
+Applying Design Science Research to Develop a Process Reference Model for IT Workforce Outsourcing: Preliminary Findings
+Guiding the Way: Facilitating Requirements Elicitation with Selection Universe Approach
+Categorizing IoT Software Systems Security Vulnerabilities Through Literature Studies
+Explorando a detecção de conflitos semânticos nas integrações de código em múltiplos métodos
+The Skill Gap in Software Industry: A Mapping Study
+Iterative Deepening URL-Based Search: Enhancing GUI Testing for Web Applications
+How does Technical Debt Evolve within Pull Requests? An Empirical Study with Apache Projects
+Industrial Practices of Requirements Engineering for ML-Enabled Systems in Brazil
+Rumo a uma Taxonomia de Observabilidade para Aplicações Baseadas em Microsserviços
+Refinando a Precisão da Detecção de Conflitos: Uma Análise do CSDiff com Abordagem Focalizada
+Avaliação de Métodos para Elicitação e Especificação de Requisitos de Usabilidade com Histórias de Usuário: Um Experimento Controlado
+Exploring the Role of Job Satisfaction and Work-Life Balance: A Study on the Mental Health Among Software Engineers
+Comparative Analysis of Large Language Model Tools for Automated Test Data Generation from BDD
+Promise+: expandindo a base de dados de requisitos de software Promise_exp
+Eyes on Code Smells: Analyzing Developers’ Responses During Code Snippet Analysis
+Detecting Code Smells in JavaScript: An Annotated Dataset for Software Quality Analysis
+A self-adaptive IoT architecture to support intelligent environments
+On the Employment of Machine Learning for Recommending Refactorings: A Systematic Literature Review
+Memoization of Mutable Objects
+Compact Representations for Arrays in Lua
+Converting Combinatory Logic to and from Concatenative Calculus
+Differential Testing using Random Well-Typed Haskell Programs
+OFG-STM: Transactional Memory for GPUs based on Obstruction-Free STM algorithms
+Cloud-based parallel computing across multiple clusters in Julia
+Semantic conflict detection via dynamic analysis
+Go x Java e gRPC x REST: Um estudo empírico
+Hok: Higher-Order GPU kernels in Elixir
+An internal domain-specific language for expressing linear pipelines: a proof-of-concept with MPI in Rust
+Towards Random Elixir Code Generation
+The expression problem in platform-aware programming
+Classifying C++ Solutions Based on Their Energy Profile
+A Snapshot of OpenMP Projects on GitHub
+Techniques for Eliciting IoT Requirements: Sensorina Map and Mind IoT
+An IoT Architecture for Decision Support System in Precision Livestock
+Impostor Phenomenon in Software Engineers
+Organizing the State of Practice on Technical Debt Prevention, Monitoring, and Payment in Software Projects
+A Large-Scale Study on Recommendations of Composite Refactorings in Practice
+Identifying Concerns When Specifying Machine Learning-Enabled Systems: A Perspective-Based Approach
+Investigating LLM Capabilities in the Identification of Compilation Errors in Configurable Systems
+Towards the acceptance of a Prompt Engineering-based Approach to Build Proto-personas during Product Discovery
+Avaliação Comparativa do GitHub Copilot e do Amazon CodeWhisperer na Geração Automática de Código-Fonte
+An Empirical Study on the Detection of Test Smells in Test Codes Generated by GitHub Copilot
+“I am always tired”: Perceptions on Mental Health and Productivity Metrics
+Explorando o Potencial e a Viabilidade de LLMs Open-Source na Análise de Sentimentos
+Preliminary Results of An Experiment on Leveraging Large Language Models to Assist Modelers in Interpreting DEVS Natural Language Models
+A three-tiered architectural model for Digital Twins in Education
+Use of the Dublin Core Standard to Express Open Metadata Related to Software Engineering Experiments
+Understanding Practices and Challenges of Developing Sustainable Research Software: A Pilot Interview
+Understanding Sustainability and FAIRness of Research Software
+Atoms of Confusion in the Android Open Source Project: A Prevalence Study
+Evaluating Test Quality in GitHub Repositories: A Comparative Analysis of CI/CD Practices Using GitHub Actions
+Towards a Product Line for Electronic Shelf Labels Domain
+Exploring the Impact of DevOps and Agile Practices from the Perspective of Source Code Analysis
+GASH – The GitHub Actions Smell Hunter
+Understanding Group Maintainership Model in the Linux Kernel Development
+What Developers Ask to ChatGPT in GitHub Pull Requests? an Exploratory Study
+An Industry View about Legacy Systems
+Identificação de Smells em Testes Fim-a-Fim Implementados em Cypress
+The Importance of Attributes in Predicting the Lifetime of Human and Automated Pull Requests
+Identifying Evidences of Computer Programming Skills Through Automatic Source Code Evaluation
+"Navegar é preciso": o Continuum Experiencial de Programação com a Web
+Um Estudo sobre o Desenvolvimento da Carreira das Estudantes do Ensino Médio Integrado em Informática
+Didática da Computação na Perspectiva da Aprendizagem Ativa
+A Method to Predict At-risk Students in Introductory Computing Courses Based on Motivation
+Modelo Inclusivo de Desenvolvimento de Objetos de Aprendizagem Acessíveis para Apoiar a Educação Inclusiva
+Computational Thinking for Youth and Adults Education: Towards a Socially Aware Model
+Supporting Students through a Recommendation System for Knowledge Acquisition in MOOCs Ecosystems
+Gamification Analytics Model for Teachers
+AFP-OPA: Arcabouço para a Escolha de Pares na Online Peer Assessment
+GGasCT: Bringing Formal Methods to the Computational Thinking
+A orientação profissional vivenciada a partir da gamificação
+Recomendação de Problemas em Juízes Onlines Utilizando Técnicas de Processamento de Linguagem Natural e Análise Dirigida aos Dados
+Diquinha: Aplicativo móvel para auxiliar no processo de aprendizado não formal em museus
+SCAA - Software de Controle de Atendimento ao Aluno
+Ilha das operações: um recurso educacional digital com múltiplas representações para a compreensão do campo aditivo
+Protótipo de um aplicativo para auxílio no aprendizado da língua portuguesa para alunos da tribo Wai Wai
+Reconhecimento facial para validação de usuário durante um questionário no Moodle
+Be a Maker: Um Aplicativo de Compartilhamento de Materiais Instrucionais Sobre Robótica Educacional
+Kaya: plataforma móvel gamificada de apoio à colaboração entre estudantes
+Versão móvel do jogo educativo Daphnia World
+Acanno: Um Jogo Eletrônico de RPG com acessibilidade em LIBRAS
+RECOACOMP: aplicativo para recomendação de objetos de aprendizagem baseado em competências
+RALibras: um protótipo offline para introduzir o ensino de Libras
+Coh-Metrix PT-BR: Uma API web de análise textual para a educação
+LabEAD: Laboratório Remoto para o Ensino de Engenharia
+Simulador de Volumetria - Uma Ferramenta para Auxiliar o Ensino Remoto de Conceitos de Titulação
+CLIO - um protótipo de aplicação de Realidade Virtual para auxiliar no ensino da disciplina de História para alunos com TDAH
+Proposta de Simulador de Coordenação de Cursos de Graduação utilizando Indústria e Educação 4.0
+Navegando no Mundo do Pensamento Computacional
+Um jogo educacional para exercitar propriedades de árvores binárias de busca
+Pharos: um jogo educacional digital inovador para auxiliar no ensino e aprendizagem da Matemática
+Modelo de infraestrutura para publicação de dados abertos educacionais conectados de qualidade
+Investigando o Senso de Presença na Educação a Distância
+Contribuições para o Design de Gamificação em Contextos Educacionais
+Estudo sobre um curso de formação em Pensamento Computacional para professores do ensino básico das áreas de Matemática e Informática
+MREPSA: Modelo de Recomendação de Estratégias Pedagógicas baseado em Aspectos Socioafetivos do Aluno em Ambiente Virtual de Aprendizagem
+Complexity of digital resources: an analysis based on their conceptual networks
+Game Criativo: Desenvolvendo Habilidades de Pensamento Computacional, Leitura e Escrita Através da Criação de Jogos
+TAEP4.0: Teacher Assistance Educational Process Based in the Context of Education 4.0
+Jogos Inteligentes Tangíveis como Instrumento de Mensuração Cognitiva
+Proposta de Sequência Didática para Introdução da Computação e do Pensamento Computacional no Ensino Fundamental II baseada nas Metáforas de Perspectivas Culturais
+AvaliaJS: Planejamento da Avaliação do Desempenho de Alunos em Jogos Sérios
+Unir.io - Aplicativo de acesso à informação e interação em comunidades acadêmicas
+LOGEX (logEx) - Um auxílio para a resolução de problemas matemáticos envolvendo funções logarítmicas e exponenciais
+Quindim auxiliando na aprendizagem do pensamento computacional
+ARTOM - Aplicativo para Ensino de Química em Realidade Aumentada
+Ubuntu Space: Um Recurso Educacional para o enfrentamento do Racismo
+Papiro Engine: uma plataforma de criação de jogos educacionais com foco em narrativa
+Cordel Aumentado: Um aplicativo para utilização da realidade aumentada aplicada na literatura de cordel
+Aplicativo móvel de realidade virtual para o ensino multidisciplinar de conteúdos de Óptica
+FalePirata: Um Jogo Sério para Auxílio no Processo de Alfabetização Por Meio do Método Fônico
+OKIoT: Simulador de Dispositivos de Internet das Coisas integrado com o Protocolo MQTT
+Passa o bizu: Proposta de aplicativo de apoio a produção científica na graduação
+O reino de Aljabar: o desafio da balança: Um Recurso Educacional Digital para favorecer o desenvolvimento do pensamento algébrico
+Chatbot Ana - Um Agente Complementar na Inclusão Digital de Idosos
+Tutoria: uma Plataforma para Apoiar Boas Práticas de Feedback no Processo de Ensino e Aprendizagem
+Software Educativo ContaKg Bilíngue
+PC Pratique+: uma ferramenta web para auxiliar no desenvolvimento do Pensamento Computacional
+Herde: Um Jogo para a Promoção de Consciência Ambiental
+Nidaba: Plataforma Digital para Produção de Recursos Educacionais Inclusivos Baseados em Mesa Tangível
+Skills-CT: Um Modelo para classificação dos Estágios Cognitivos das habilidades do Pensamento Computacional e desenvolvimento da Aprendizagem Criativa
+Development of Design Principles to Author AR in Education Based on Teacher's Perspectives
+Identificação de Estratégias Cognitivas Elaboradas por Estudantes na Resolução de Situações-Problema em Matemática por Meio de uma Ferramenta Digital
+Os efeitos de usar estimativas de conhecimento do aluno em programação de computadores em modelos livres de sensores de detecção da emoção confusão
+Uma Abordagem Híbrida Apoiada por Algoritmo Bioinspirado e Tecnologias de Web Semântica para Recomendação Personalizada de Objetos de Aprendizagem
+Modelagem Estatística do Tempo de Permanência de Estudantes no Estado de Confusão Através de Análise de Sobrevivência Multivariada - CTD-IE
+Implementação e avaliação de um Jogo Digital Educacional para desenvolvimento do Pensamento Computacional em crianças neurotípicas e com Deficiência Intelectual
+Supporting K-12 Students on Learning Programming Using Mobile Immersive Virtual Reality
+MeTA: Um Método para Avaliação de Tecnologias Educacionais Acessíveis
+Transformação Digital na Educação para fomentar Competências Digitais
+Um Método Baseado na Teoria da Resposta ao Item para Avaliação e Feedback Automático no Contexto de Educação Digital
+MyTDAH - Game para Crianças TDAH
+Rede Semântica de Mapas Conceituais Vidya Network
+Alfalibras: Um Software Educativo para a Alfabetização Bilíngue de Crianças Surdas
+Muiraquitã Braille: Uma Proposta de Aplicativo para Aprendizagem e Tradução do Sistema Braille
+Ágora: aplicativo desenvolvido por estudantes da educação pública para auxiliar no desenvolvimento da competência de argumentar
+Curador Virtual: um aplicativo para auxiliar na leitura de imagens
+Simulação 3D - Antártica: testemunha do tempo
+Sigedu- Sistema de Informações e Gerenciamento Educacional
+Blockly-DS: Programação em Blocos para o ensino de Ciência de Dados
+Jogo digital educacional Pensar e Lavar
+Beto, o simulador de memória cache
+Projeto Saturno: jogo sério para a motivação e aprendizagem sobre História do Brasil
+Quizle: jogo mobile e plataforma web para criação de quizzes e visualização de relatórios
+Supporting the Retrieval of Open Educational Resources for Programming Education
+Um framework para a aprendizagem de habilidades de programação e habilidades do século XXI
+Análise automatizada de coesão em redações do ensino fundamental por meio de técnicas de processamento de linguagem natural
+Aplicação de reconhecimento de entidades nomeadas para análise automática de textos narrativos em produções textuais do ensino fundamental
+A Criação de Atividades com Histórias em Quadrinhos no Desenvolvimento das Habilidades do Pensamento Computacional no Ensino Fundamental
+Comunidades de Prática em Ambientes Virtuais de Aprendizagem para o Desenvolvimento de Habilidades da Educação 4.0
+CaFE-TaMTIn: uma abordagem para o desenvolvimento e capacitação de funções executivas utilizando um sistema de interface tangível multi-representacional com aspectos de sistema tutor inteligente
+Uma Abordagem para Recomendação de Grupos integrada às Técnicas de Aprendizagem Colaborativa
+Proposta de Metodologia para Avaliação da Aprendizagem de Alunos em Jogos Sérios
+Proposta de framework para o desenvolvimento de audiojogos educacionais por meio da Pedagogia de Projetos
+Recomendação Pedagógica Personalizada a partir do Sequenciamento de Ações Baseadas na Taxonomia de Bloom e no Perfil RASI usando Planejamento em Inteligência Artificial
+Uma Abordagem para o Ensino de Testes de Software utilizando Metodologias Ativas em Cursos Superiores de Computação
+Um Modelo baseado em Trilhas de Aprendizagem para a Representação de Alunos de Ambientes Virtuais de Aprendizagem
+Disengaging the engaged ones: gender-stereotyped tutoring systems are undermining self-efficacy and flow state of girls
+Assistente virtual ADA Blocks: Facilitando a escolha de ferramentas de programação em blocos para a Educação 4.0
+Even Boosting Stereotypes Increase The Gender Gap in Gamified Tutoring Systems: An Analysis of Self Self-efficacy, Flow and Learning
+A possibilidade de dialogar durante o desenvolvimento de projetos envolvendo a programação com o Scratch nas aulas de matemática
+Do gamified tutoring systems hinder sexual diversity? An experimental study with cis-heteronormative stereotype
+GraduAI – Sistema com Aprendizagem de Máquina para Avaliação de Risco de Evasão
+Pensamento Computacional e Scratch: Um Relato de Experiências com Estudantes do Ensino Médio Público no Distrito Federal
+UnplugGamify: Material Didático para Apoiar a Gamificação Desplugada Centrada no Estudante
+Pensar e Vestir: Jogo Digital Educacional para o Desenvolvimento do Pensamento Computacional
+Jornada Biomas Escolas: um jogo digital em prol da conservação da biodiversidade
+Game Comenius 3
+Furbot: um jogo para auxiliar no desenvolvimento de habilidades do Pensamento Computacional
+RevisãoOnline: Plataforma online de escrita e revisão de textos dissertativo-argumentativos
+BackTest: o software de feedback da avaliação qualitativa que promove aprendizagem personalizada
+Laboratório Remoto de Programação Básica de Sistemas Digitais
+Plataforma Educacional Bootebook
+Cadê Minha Pizza? Exercitando Matemática e Pensamento Computacional de forma lúdica por meio de grafos
+Palavras Mágicas: um jogo de plataforma para exercitar a Língua Portuguesa
+ADA Blocks: assistente virtual para apoiar professores na escolha de ferramentas de programação em blocos
+Rabbit Code: Um jogo voltado para a aprendizagem de matrizes
+MyName: um jogo educacional inspirado no problema da mochila
+aquare!a: um repositório dinâmico para elaboração e compartilhamento de Recursos Educacionais Abertos
+Observatório Social: Plataforma Online para Publicação e Acesso de Artigos de Pesquisa
+Avalanche Silábica: jogo educacional para aprendizagem de encontros vocálicos na Língua Portuguesa
+The Island: Calculated Defense - Praticando Operações de Adição e Subtração
+Yerê e a Ilha Precisa: Um jogo RPG para exercitar a aprendizagem de literatura
+Enigma pirata: um jogo para exercitar Matemática e Pensamento Computacional através da Teoria dos Conjuntos
+Hello Food: um jogo para exercitar conceitos de programação e Pensamento Computacional
+LOGICUBE: Um Artefato de Interação Tangível para Ensino de Pensamento Computacional para Crianças
+Resgate Binário: Um jogo educacional para praticar conversão de números decimais para base binária e Pensamento Computacional
+Pensar e Vestir: Desenvolvimento do Pensamento Computacional por meio de um Jogo Digital Educacional
+CollabProg: Um Repositório Colaborativo Aberto para Apoiar na Adoção de Metodologias Ativas no Ensino de Programação
+iVProg4All: uma abordagem de programação visual acessível para pessoas cegas
+Furbot: mini games para auxiliar no desenvolvimento do Pensamento Computacional
+Mestre dos Sucos: mix de frações - Um Recurso Educacional Digital gamificado para desenvolver habilidades cognitivas e socioemocionais
+O uso das tecnologias digitais para o desenvolvimento do raciocínio geográfico
+Uma Proposta para Modelagem de Ecossistemas Educacionais a partir de Experiências de Aprendizagem ao Longo da Vida
+Aprendizagem colaborativa auxiliada por computador e inclusão digital: Um método aplicado na educação profissional de jovens e adultos na modalidade EJA (Proeja)
+Estratégias de Acessibilidade em IDEs para Estudantes com Deficiência Visual
+Aprendizagem Autorregulada em MOOCs por meio de um Painel para Visualização de Dados
+Uma proposta de melhoria dos Processos de Ensino Aprendizagem para Laboratórios Remotos
+Uma proposta de arquitetura computacional para autoria de jogos digitais educacionais com suporte a técnicas de analíticas de aprendizagem - STUDX
+Developing a Toolkit for evaluation of gamification in educational environments
+Fazendo uso de Inteligência Artificial para ensinar música para crianças surdas
+Tecnologias Digitais na Educação de Jovens e Adultos: um relato sobre ações de reconhecimento e combate a riscos virtuais
+Desenvolvendo habilidades de leitura e escrita através da produção de Podcast
+A produção de mídias digitais como prática acadêmica: um estudo acerca da aprendizagem no Ensino Superior
+Padlet e Filosofia: Uma Nova Perspectiva de Aprendizagem
+Storytelling e Currículo Integrado: uma Experiência num Curso de Informática
+Algoritmos Adaptados para Alunos com Deficiência Visual: Inovando o Ensino de Matemática Através de Dobraduras de Papel e Pensamento Computacional
+Ensinando conceitos matemáticos a partir do Jogo Bridge Construction Simulator
+Potencializando o Engajamento no Ensino de Engenharia de Software e Requisitos: Relatos de Experiências com a Dinâmica Fábrica de Aviões
+O Uso das Tecnologias para Inclusão: a Vivência Escolar de uma Estudante com a Dupla Condição
+Estimulando o Aprendizado de Matemática no Ensino Fundamental: Uma Abordagem Prática Integrando Jogos Digitais e Materiais Físicos
+Promovendo a Inclusão e Permanência Feminina nos Cursos de Computação Através do Ensino de Robótica: Um Relato de Experiência
+Transformando Ideias em Aplicativos de Celular: um Relato de Experiência em uma Disciplina de Projeto e Prática no Ensino Médio Técnico
+O desenvolvimento do pensamento computacional por meio do clube de inovadores
+Arquiteturas Pedagógicas e Aprendizagem Cooperativa em Ambientes Digitais: um relato de experiência
+Segurança digital em HQs: Estimulando autoria e protagonismo no 4º ano do ensino fundamental
+Explorando o uso da Realidade Aumentada e Realidade Virtual no Ensino de Ciências Naturais para alunos do Fundamental II
+Ensino de Algoritmos para Pessoa com Deficiência Visual: Um Relato de Experiência no Ensino Superior
+Arquiteturas Pedagógicas e Modelagem 3D na aprendizagem de Levantamento Arquitetônico
+Integrando Práticas de Design Thinking no Ensino e Aprendizagem de Requisitos de Software: Um Relato de Experiência
+Desenvolvendo Competências para o Empreendedorismo Tecnológico: Experiência e Resultados em uma Formação Básica
+O Instagram como ferramenta para a aprendizagem de Estatística: uma experiência com estudantes do 8º ano do Ensino Fundamental
+Explorando a Robótica para mitigar Desafios Comportamentais e de Aprendizado em Programação na Graduação
+A Influência dos Jogos Digitais no Comportamento dos Alunos do 4º Ano do Ensino Fundamental: Um Relato de Experiência dos Pibidianos de Computação
+Formas geométricas planas e espaciais por meio de habilidades do Pensamento Computacional: Estudo de caso com alunos com deficiência visual
+App Lab para Jovens: desenvolvimento, aplicação e avaliação de um curso de aplicativo
+O Ensino dos Conceitos de Dados e Informações: Relato de uma Experiência para o Ensino Fundamental I
+Um Relato de Experiência: Ensino de Programação e Eletrônica Básica através de Oficinas de Robótica em Escola Pública de Nível Fundamental e Médio
+Implementação da Computação na Rede Educacional de Dois Irmãos/RS: Panorama de Um Desafio Possível
+Principais Aplicações da Computação Desplugada no Ensino Fundamental II: Um Mapeamento Sistemático da Literatura
+Life&Health: Integrando Novas Tendências de Tecnologias Digitais na Educação
+Relato de Experiência de Atividades Desplugadas de Ciência de Dados para Crianças
+Engenharia para Crianças e Jovens: Uma abordagem STEAM para ensino de programação na educação básica
+Três Anos de Código: Uma Análise das Percepções, Desafios e Expectativas no Ensino de Programação
+Da Ideia ao Jogo: Desenvolvendo o Pensamento Computacional no Ensino Médio Através da Disciplina Playcode
+Transformação Educacional e Inclusão Digital: Os impactos da Programação na vida de jovens do interior de Alagoas
+Atividades Desplugadas na Escola: a Importância de Levar o Pensamento Computacional de Maneira Concreta para a Educação Básica
+Análise do ensino de computação nas escolas das cidades Camaragibe e São Lourenço da Mata da GRE Metro Sul - PE
+Desenvolvimento de Soft Skills a partir de atividade relacionada a computação desplugada
+Formação de leitores ubíquo com Scratch: experiência com estudantes do quarto ano do Ensino Fundamental na Rede Pública
+Robótica Educativa para Desenvolvimento de Habilidades do Pensamento Computacional por meio de Eletiva Complementar
+Desenvolvimento do Pensamento Computacional em Escolas Públicas do Ensino Médio: Um Relato de Experiência
+Computação Desplugada e IA: novas abordagens para a educação contemporânea
+O desenvolvimento do pensamento no contexto da resolução de problemas em robótica
+Oficinas de Robótica Educacional para estudantes em distorção idade-série: contribuições para aprendizagem cooperativa
+Experiências Computacionais Educativas Construcionistas (ExCEC) como contexto para a aprendizagem de números negativos e desenvolvimento do pensamento computacional
+Uma Arquitetura Pedagógica para a Construção de Micropráticas de Pensamento Computacional no Contexto do Ensino de Ciências
+Bits no Espaço: avaliação de um jogo analógico de tabuleiro para o ensino de lógica de programação com Python
+Segurança Digital: Desenvolvendo habilidades da BNCC Computação - visão dos Professores
+Implantação do Ensino de Computação nas Escolas do Sertão do Submédio São Francisco: uma Investigação do Contexto Regional
+Educação Inclusiva em Realidade Aumentada: Recurso Instrucional Digital para Apoiar a Formação de Alunos no Ensino de Computação
+Uma reflexão sobre a inserção do Pensamento Computacional na Educação Básica no Brasil
+InfoGirl: Uma Década de Jornada Rumo à Equidade de Gênero na Tecnologia da Informação no Estado do Ceará
+Promovendo a Integração entre Ciência, Tecnologia e Sustentabilidade: Um Relato de Experiência
+PET-Recebe: Apresentando um Campus Universitário Temático na Área de Tecnologia da Informação para Estudantes de Escolas Públicas do Interior do Ceará
+Ecossistemas de Aprendizagem: um experimento com licenciandos em computação
+Uma Arquitetura Pedagógica para o Desenvolvimento do Pensamento Computacional na Educação Básica
+Defensor Digital 60+: uma proposta de metodologia para inclusão digital da pessoa idosa
+Desenvolvimento de Competências Docentes em Computação para Fomento da Programação Competitiva: Um Relato da Disciplina de Estágio em Docência
+A Formação De Professores E Sua Relação Com O Uso Das Tecnologias Digitais Nas Práticas Pedagógicas
+Alfabetização Digital na Educação Básica: Ensino de Computação em Escolas Estaduais
+A perspectiva docente na integração das tecnologias: utilizando atividades investigativas no ensino de Matemática
+Modelagem e impressão 3D aplicadas a criação de objetos de aprendizagem assistivos
+Arquiteturas Pedagógicas: um experimento de ensino com licenciandos em computação
